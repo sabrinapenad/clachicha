@@ -258,12 +258,7 @@
 }
 
 .pages-title-info {
-  height: 250px;
-}
-
-.pages-title {
-  font-family: 'Bebas Neue';
-  letter-spacing: 2px;
+  height: 300px;
 }
 
 .pages-title-container {
@@ -273,9 +268,4 @@
 .page-info-container {
   display: flex;
   flex-direction: column;
-}
-
-.pages-info {
-  opacity: 90%;
-  font-size: 20px!important;
 }
