@@ -1,6 +1,7 @@
 ---
 title: Marker 1
 main_image_path: /images/work_images/MARKER/marker_1.jpg
+image_path_3: "none"
 year: 2019
 category: Marker
 permalink: marker-1

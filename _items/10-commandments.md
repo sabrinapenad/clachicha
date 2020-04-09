@@ -2,6 +2,7 @@
 title: 10 Commandments
 main_image_path: /images/work_images/PHOTOGRAPHY/10 mandamientos/4.JPG
 image_path_2: /images/work_images/PHOTOGRAPHY/10 mandamientos/8.JPG
+image_path_3: "none"
 year: 2019
 category: Photography
 layout: pages

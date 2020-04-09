@@ -1,6 +1,7 @@
 ---
 title: Human Body Sketch
 main_image_path: /images/work_images/OTHER/Sketch/IMG_2037.jpg
+image_path_3: "none"
 year: 2019
 category: Sketch
 permalink: human-body-sketch

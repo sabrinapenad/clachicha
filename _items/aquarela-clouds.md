@@ -1,6 +1,7 @@
 ---
 title: Aquarela Clouds
 main_image_path: /images/work_images/PAINTINGS/Nubes_acuarela.jpg
+image_path_3: "none"
 year: 2019
 category: Paintings
 permalink: aquarela-clouds
