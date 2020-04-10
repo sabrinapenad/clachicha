@@ -3,3 +3,9 @@ title: clachicha
 collections:
   items:
     output: true
+
+contentful:
+  spaces:
+    - clachicha:                              # Jekyll _data folder identifier - Required
+        space: w0gzgn8pc4mk                # Required
+        access_token: iAjD1RruGvAzNe6oKy7yj9X2I6S0oBuOGGBGCysRUus

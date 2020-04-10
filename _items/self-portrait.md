@@ -1,5 +1,6 @@
 ---
 title: Collage Self Portrait
+num_images: 4
 main_image_path: /images/work_images/COLLAGE/Autorretrato/Autorretrato3.jpg
 image_path_2: /images/work_images/COLLAGE/Autorretrato/Autorretrato1.jpg
 image_path_3: /images/work_images/COLLAGE/Autorretrato/Autorretrato2.jpg

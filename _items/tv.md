@@ -1,5 +1,6 @@
 ---
 title: TV
+num_images: 3
 main_image_path: /images/work_images/3D/TV/IMG_1991.jpg
 image_path_2: /images/work_images/3D/TV/IMG_1723.jpg
 image_path_3: /images/work_images/3D/TV/IMG_1721.jpg
