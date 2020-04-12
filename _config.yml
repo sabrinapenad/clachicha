@@ -1,11 +1,17 @@
 title: clachicha
 
-collections:
-  items:
-    output: true
-
 contentful:
   spaces:
-    - clachicha:                              # Jekyll _data folder identifier - Required
-        space: w0gzgn8pc4mk                # Required
+    - clachicha:
+        space: w0gzgn8pc4mk
         access_token: iAjD1RruGvAzNe6oKy7yj9X2I6S0oBuOGGBGCysRUus
+
+page_gen:
+  - index_files: false
+    data: contentful.spaces.clachicha.title
+    name_expr: record['title'].split(' ').join('-')
+    dir: '/work'
+    template: work_post
+
+plugins:
+  - data_page_generator

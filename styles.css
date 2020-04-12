@@ -70,7 +70,7 @@
 .bar-logo {
   padding-left: 50px;
   background-color: inherit;
-  width: 100%;
+  width: 200px;
 }
 
 .bar-logo-space {
@@ -170,6 +170,8 @@
   object-fit: cover;
   border-radius: 20%;
   align-items: center;
+  border: 1px solid #adadad;
+
 }
 
 .align-itm {
@@ -220,25 +222,12 @@
   width: 60%;
 }
 
-.pages-main-img-container {
-  display: flex;
-  margin-bottom: 30px;
-  justify-content: center;
-}
-
 .pages-img-1 {
   height: 400px;
   width: 400px;
   object-fit: cover;
   border-radius: 10%;
 }
-
-.pages-secondary-images-container{
-  display: flex;
-  justify-content: space-around;
-  margin-bottom: 30px;
-}
-
 
 .pages-img-2 {
   height: 200px;
