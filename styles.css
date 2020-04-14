@@ -1,5 +1,31 @@
 /* MAIN */
 
+@media only screen and (max-width: 600px) {
+  .main-body {
+    background-size: cover!important;
+  }
+
+  .logo-img {
+    width: 100px!important;
+  }
+
+  .nav-bar {
+    display: block!important;
+    justify-content: center!important;
+    height: auto!important;
+    text-align: center!important;
+    background-color: transparent!important;
+    margin-top: 60px!important;
+  }
+
+  .nav-bar-item {
+    width: auto!important;
+    border-left: 7px black solid!important;
+    margin-bottom: 20px!important;
+  }
+}
+
+
 .main-body{
   margin: 50px;
   background-image: url("images/OPCION_2.svg");
@@ -45,6 +71,8 @@
 
 .nav-bar-item:hover {
   font-size: 40px;
+  text-decoration: none;
+  color: black;
 }
 
 /* PAGES */
@@ -292,7 +320,7 @@
 }
 
 .back-arrow-img {
-  width: 10%;
+  width: 15%;
   align-items: center;
   justify-content: center;
 }
