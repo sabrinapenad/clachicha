@@ -170,8 +170,6 @@
   object-fit: cover;
   border-radius: 20%;
   align-items: center;
-  border: 1px solid #adadad;
-
 }
 
 .align-itm {
@@ -211,11 +209,27 @@
   color: blue;
 }
 
-/* PAGES */
+/* WORK POSTS */
+
+.work-posts {
+  display: flex;
+}
+
+.pages-top-bar {
+  width: 200px;
+  height: 300px;
+  position: fixed;
+}
+
+.pages-top-bar-space {
+  width: 200px;
+  height: 300px;
+}
 
 .pages-main-container {
   display: flex;
-  margin-top: 40px;
+  margin-top: 100px;
+  margin-left: 200px;
 }
 
 .pages-images-container {
@@ -239,8 +253,7 @@
 .pages-title-info-main {
   width: 40%;
   display: inline;
-  padding-left: 20px;
-  padding-right: 20px;
+  margin-right: 100px;
 }
 
 .pages-title-info {
@@ -279,7 +292,7 @@
 }
 
 .back-arrow-img {
-  width: 5%;
+  width: 10%;
   align-items: center;
   justify-content: center;
 }

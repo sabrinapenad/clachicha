@@ -4,78 +4,80 @@ layout: default
 
 <body class="pages-body">
 
-  <div class="top-bar my-4">
+  <div class="work-posts">
 
-    <div id="mySidenav" class="sidenav">
-      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      <a href="./work" class="sidenav-links">WORK</a>
-      <a href="./inspo" class="sidenav-links">INSPO</a>
-      <a href="./about" class="sidenav-links">ABOUT</a>
-      <a href="./contact" class="sidenav-links">CONTACT</a>
-    </div>
+    <div class="top-bar my-4">
 
-    <div class="pages-top-bar">
-
-      <div class="pages-bar-logo">
-
-        <div class="bar-logo">
-
-          <span onclick="openNav()" class="three-bars">
-            <div class="one"></div>
-            <div class="two"></div>
-            <div class="three"></div>
-          </span>
-
-          <a href="/">
-            <img class="pages-logo-img" src="/images/logo_clachicha.jpg">
-          </a>
-
-        </div>
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="./work" class="sidenav-links">WORK</a>
+        <a href="./inspo" class="sidenav-links">INSPO</a>
+        <a href="./about" class="sidenav-links">ABOUT</a>
+        <a href="./contact" class="sidenav-links">CONTACT</a>
       </div>
 
-      <div class="back-arrow-container">
-        <a href="/work">
-          <img class="back-arrow-img" src="/images/left-arrow.png"/>
-        </a>
-      </div>
+      <div class="pages-top-bar">
 
-    </div>
-  </div>
+        <div class="pages-bar-logo">
 
-  <div class="container pages-main-container">
-    <div class="pages-images-container">
-      <div class="row">
-        {% for image in page.images %}
-          {% assign mod = forloop.index | minus: 1 %}
-          {% assign mod = mod | modulo: 3 %}
-          {% if mod == 0 %}
-            {% assign container_class = "col-12" %}
-            {% assign image_class = "pages-img-1" %}
-          {% else %}
-            {% assign container_class = "col-6" %}
-            {% assign image_class = "pages-img-2" %}
-          {% endif %}
+          <div class="bar-logo">
 
-          <div class="{{container_class}} text-center">
-            <img class="{{image_class}}" src="{{image.url}}"/>
+            <span onclick="openNav()" class="three-bars">
+              <div class="one"></div>
+              <div class="two"></div>
+              <div class="three"></div>
+            </span>
+
+            <a href="/">
+              <img class="pages-logo-img" src="/images/logo_clachicha.jpg">
+            </a>
+
           </div>
-        {% endfor %}
+        </div>
+
+        <div class="back-arrow-container">
+          <a href="/work">
+            <img class="back-arrow-img" src="/images/left-arrow.png"/>
+          </a>
+        </div>
+
       </div>
     </div>
 
-    <div class="pages-title-info-main">
-      <div class="pages-title-info">
-        <div class="pages-title-container">
-          <h1 class="h1 pages-title">{{ page.title }}</h1>
+    <div class="pages-main-container">
+      <div class="pages-images-container">
+        <div class="row">
+          {% for image in page.images %}
+            {% assign mod = forloop.index | minus: 1 %}
+            {% assign mod = mod | modulo: 3 %}
+            {% if mod == 0 %}
+              {% assign container_class = "col-12" %}
+              {% assign image_class = "pages-img-1" %}
+            {% else %}
+              {% assign container_class = "col-6" %}
+              {% assign image_class = "pages-img-2" %}
+            {% endif %}
+
+            <div class="{{container_class}} text-center">
+              <img class="{{image_class}}" src="{{image.url}}"/>
+            </div>
+          {% endfor %}
         </div>
-        <div class="page-info-container">
-          <h3 class="h3 pages-info">Medium {{ page.category }}</h3>
-          <h3 class="h3 pages-info"> Year {{ page.year }}</h3>
-          <h3 class="h3 pages-info">Size {{ page.size }}</h3>
+      </div>
+
+      <div class="pages-title-info-main">
+        <div class="pages-title-info">
+          <div class="pages-title-container">
+            <h1 class="h1 pages-title">{{ page.title }}</h1>
+          </div>
+          <div class="page-info-container">
+            <h3 class="h3 pages-info">Medium {{ page.category }}</h3>
+            <h3 class="h3 pages-info"> Year {{ page.year }}</h3>
+            <h3 class="h3 pages-info">Size {{ page.size }}</h3>
+          </div>
         </div>
       </div>
     </div>
-
   </div>
 
 
