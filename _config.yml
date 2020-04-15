@@ -15,3 +15,10 @@ page_gen:
 
 plugins:
   - data_page_generator
+
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
+exclude: []

@@ -75,7 +75,21 @@
   color: black;
 }
 
-/* PAGES */
+
+/* WORK */
+
+.top-bar-graph {
+  display: flex;
+}
+
+/* .work-graph {
+  width: 100%;
+}
+
+.work-graph-image {
+  max-width: 100%;
+  height: auto;
+} */
 
 .pages-logo-img {
   height: 90px;
@@ -91,6 +105,7 @@
 }
 
 .top-bar {
+  float: left;
   display: flex;
   justify-content: space-between;
 }
@@ -241,6 +256,7 @@
 
 .work-posts {
   display: flex;
+  margin-bottom: 60px;
 }
 
 .pages-top-bar {
@@ -261,12 +277,10 @@
 }
 
 .pages-images-container {
-  width: 60%;
+  width: 80%;
 }
 
 .pages-img-1 {
-  height: 400px;
-  width: 400px;
   object-fit: cover;
   border-radius: 10%;
 }
@@ -323,4 +337,9 @@
   width: 15%;
   align-items: center;
   justify-content: center;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
 }
