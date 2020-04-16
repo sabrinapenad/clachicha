@@ -8,7 +8,7 @@ contentful:
 
 page_gen:
   - index_files: false
-    data: contentful.spaces.clachicha.title
+    data: contentful.spaces.clachicha.workPosts
     name_expr: record['title'].split(' ').join('-')
     dir: '/work'
     template: work_post

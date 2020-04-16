@@ -1,194 +1,119 @@
 ---
-title:
+workPosts:
 - sys:
-    id: 1a5X9sl6r1ooSfSVxLotRF
-    created_at: !ruby/object:DateTime 2020-04-10 13:51:42.700000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-12 17:00:06.462000000 Z
-    content_type_id: title
-    revision: 3
-  title: Collage Self Portrait
-  number_of_images: 4
-  main_image:
-    sys:
-      id: 5ThMnzULqKwyNqiE2ofvkF
-      created_at: !ruby/object:DateTime 2020-04-10 13:50:17.855000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:50:17.855000000 Z
-    title: Autorretrato3
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5ThMnzULqKwyNqiE2ofvkF/ef761bc666a55d054b7a6687fdfd7030/Autorretrato3.jpg"
-  image2:
-    sys:
-      id: 24dDNMaPKEL7XpHyX4NZeY
-      created_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
-    title: Autorretrato2
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/24dDNMaPKEL7XpHyX4NZeY/14d9112daafff2892ed2f3df16a5c594/Autorretrato2.jpg"
-  image3:
-    sys:
-      id: 7KDaEWKxf3jOUbxy3XXRId
-      created_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
-    title: Autorretrato1
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/7KDaEWKxf3jOUbxy3XXRId/7cfb204463d5ab2982e08e3e1bda7d6f/Autorretrato1.jpg"
-  image4:
-    sys:
-      id: 5DsD5xfyaquVdgqMU7IvAw
-      created_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
-    title: Autorretrato4
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5DsD5xfyaquVdgqMU7IvAw/97f0e144e037b7b3e108572b59562d2a/Autorretrato4.JPEG"
-  year: 2019
-  medium: Collage
+    id: 43K4mTYX67i6qhZBleXtrU
+    created_at: !ruby/object:DateTime 2020-04-16 14:08:34.415000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-16 14:08:34.415000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Marker Clouds
+  medium: Marker
+  year: 2018
+  size: 20 x 30 cm
   images:
   - sys:
-      id: 5DsD5xfyaquVdgqMU7IvAw
-      created_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
-    title: Autorretrato4
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5DsD5xfyaquVdgqMU7IvAw/97f0e144e037b7b3e108572b59562d2a/Autorretrato4.JPEG"
-  - sys:
-      id: 7KDaEWKxf3jOUbxy3XXRId
-      created_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
-    title: Autorretrato1
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/7KDaEWKxf3jOUbxy3XXRId/7cfb204463d5ab2982e08e3e1bda7d6f/Autorretrato1.jpg"
-  - sys:
-      id: 24dDNMaPKEL7XpHyX4NZeY
-      created_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
-    title: Autorretrato2
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/24dDNMaPKEL7XpHyX4NZeY/14d9112daafff2892ed2f3df16a5c594/Autorretrato2.jpg"
-  - sys:
-      id: 5ThMnzULqKwyNqiE2ofvkF
-      created_at: !ruby/object:DateTime 2020-04-10 13:50:17.855000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:50:17.855000000 Z
-    title: Autorretrato3
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5ThMnzULqKwyNqiE2ofvkF/ef761bc666a55d054b7a6687fdfd7030/Autorretrato3.jpg"
-  - sys:
-      id: 6l0eSrrDeWfZvZV6I5844u
-      created_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
-    title: IMG 1991
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/6l0eSrrDeWfZvZV6I5844u/edeafe1d450569d8da428c56cf974148/IMG_1991.jpg"
-- sys:
-    id: 1e2kY0RWcHULgCYxPze53S
-    created_at: !ruby/object:DateTime 2020-04-10 13:53:32.140000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-10 13:53:32.140000000 Z
-    content_type_id: title
-    revision: 1
-  title: TV
-  number_of_images: 3
-  main_image:
-    sys:
-      id: 6l0eSrrDeWfZvZV6I5844u
-      created_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
-    title: IMG 1991
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/6l0eSrrDeWfZvZV6I5844u/edeafe1d450569d8da428c56cf974148/IMG_1991.jpg"
-  image2:
-    sys:
-      id: 5WOKkVJZ7xmo5Ehh5R5Oed
-      created_at: !ruby/object:DateTime 2020-04-10 13:52:48.700000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:52:48.700000000 Z
-    title: IMG 1723
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5WOKkVJZ7xmo5Ehh5R5Oed/66c3f4bec140fd76a351cc594255f6e4/IMG_1723.jpg"
-  image3:
-    sys:
-      id: 4VMdj3M8YUZPJj4NdXLaPo
-      created_at: !ruby/object:DateTime 2020-04-10 13:53:22.619000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:53:22.619000000 Z
-    title: IMG 1721
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/4VMdj3M8YUZPJj4NdXLaPo/47131c98f79ae941ea1e3377889f8c34/IMG_1721.jpg"
-  year: 2019
-  medium: 3D
-- sys:
-    id: 5b51tioAx5c3HDBnbDAX7a
-    created_at: !ruby/object:DateTime 2020-04-10 13:49:22.951000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-10 13:49:22.951000000 Z
-    content_type_id: title
-    revision: 1
-  title: Marker 1
-  number_of_images: 1
-  main_image:
-    sys:
       id: 3RLkMKiHPCVRXq08oyTytd
       created_at: !ruby/object:DateTime 2020-04-10 13:49:07.846000000 Z
       updated_at: !ruby/object:DateTime 2020-04-10 13:49:07.846000000 Z
     title: Marker 1
     description: 
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3RLkMKiHPCVRXq08oyTytd/73b41190167b9578470d4c26f381a9cb/marker_1.jpg"
-  year: 2019
-  medium: Marker
+  description: 'A iaculis at erat pellentesque adipiscing commodo. Sagittis vitae
+    et leo duis ut diam quam nulla porttitor. Adipiscing commodo elit at imperdiet
+    dui. Convallis posuere morbi leo urna. Faucibus interdum posuere lorem ipsum.
+    Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis. Est lorem
+    ipsum dolor sit amet consectetur adipiscing elit. Feugiat in fermentum posuere
+    urna nec tincidunt praesent semper. Dolor sit amet consectetur adipiscing elit.
+    Sed libero enim sed faucibus turpis in eu mi. '
 - sys:
-    id: 1YjSFD2APPjQaAw2wqigve
-    created_at: !ruby/object:DateTime 2020-04-10 13:48:04.829000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-10 13:48:04.829000000 Z
-    content_type_id: title
+    id: txZiiSIO8uC5YolfMKaE1
+    created_at: !ruby/object:DateTime 2020-04-16 14:07:18.477000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-16 14:07:18.477000000 Z
+    content_type_id: workPosts
     revision: 1
-  title: Human Body Sketch
-  number_of_images: 1
-  main_image:
-    sys:
-      id: 5P8dVniwawe7411MJwLyXD
-      created_at: !ruby/object:DateTime 2020-04-10 13:47:54.111000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:47:54.111000000 Z
-    title: IMG 2037
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5P8dVniwawe7411MJwLyXD/1e3b710552dcbb9eda7da5ee8a4eb994/IMG_2037.jpg"
+  title: 3D TV
+  medium: 3D
   year: 2019
-  medium: Sketches
+  size: 200 x 400 cm
+  images:
+  - sys:
+      id: 6l0eSrrDeWfZvZV6I5844u
+      created_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
+    title: IMG 1991
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6l0eSrrDeWfZvZV6I5844u/edeafe1d450569d8da428c56cf974148/IMG_1991.jpg"
+  - sys:
+      id: 5WOKkVJZ7xmo5Ehh5R5Oed
+      created_at: !ruby/object:DateTime 2020-04-10 13:52:48.700000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-10 13:52:48.700000000 Z
+    title: IMG 1723
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5WOKkVJZ7xmo5Ehh5R5Oed/66c3f4bec140fd76a351cc594255f6e4/IMG_1723.jpg"
+  - sys:
+      id: 4VMdj3M8YUZPJj4NdXLaPo
+      created_at: !ruby/object:DateTime 2020-04-10 13:53:22.619000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-10 13:53:22.619000000 Z
+    title: IMG 1721
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4VMdj3M8YUZPJj4NdXLaPo/47131c98f79ae941ea1e3377889f8c34/IMG_1721.jpg"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet
+    consectetur adipiscing elit duis tristique. Eu lobortis elementum nibh tellus
+    molestie nunc non blandit massa. Blandit turpis cursus in hac habitasse platea
+    dictumst. Massa tempor nec feugiat nisl pretium. Massa tincidunt dui ut ornare
+    lectus sit amet. Aliquet porttitor lacus luctus accumsan tortor posuere ac. Turpis
+    egestas integer eget aliquet nibh praesent tristique. \n\nEgestas pretium aenean
+    pharetra magna ac placerat vestibulum lectus mauris. Dapibus ultrices in iaculis
+    nunc sed augue. Quam vulputate dignissim suspendisse in est. Aliquam sem fringilla
+    ut morbi tincidunt augue interdum velit euismod. Sed sed risus pretium quam vulputate
+    dignissim suspendisse in est. Vitae et leo duis ut diam quam. Vitae sapien pellentesque
+    habitant morbi. Orci eu lobortis elementum nibh tellus molestie nunc. Eget mauris
+    pharetra et ultrices neque ornare aenean euismod elementum."
 - sys:
-    id: 7xoMHl1qu47k1133biYezq
-    created_at: !ruby/object:DateTime 2020-04-10 13:46:48.831000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-10 13:46:48.831000000 Z
-    content_type_id: title
+    id: 7aES9C3qm8Pts6ZIDQtkhY
+    created_at: !ruby/object:DateTime 2020-04-14 13:55:57.168000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-14 13:55:57.168000000 Z
+    content_type_id: workPosts
     revision: 1
-  title: Aquarela Clouds
-  number_of_images: 1
-  main_image:
-    sys:
-      id: 6z7CT4WTS76K1MyjygoJbA
-      created_at: !ruby/object:DateTime 2020-04-10 13:46:43.719000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:46:43.719000000 Z
-    title: Nubes acuarela
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/6z7CT4WTS76K1MyjygoJbA/2310996e3e6f0ce8b4b605cee4291096/Nubes_acuarela.jpg"
+  title: Collage Self Portrait
+  medium: Collage
   year: 2019
-  medium: Paintings
-- sys:
-    id: 7gIbwVNMRzlOwm4LIhKagT
-    created_at: !ruby/object:DateTime 2020-04-10 01:29:22.297000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-10 13:45:26.528000000 Z
-    content_type_id: title
-    revision: 2
-  title: 10 Commandments
-  number_of_images: 2
-  main_image:
-    sys:
-      id: 7kqeARxuhVWjNURQZEX3ER
-      created_at: !ruby/object:DateTime 2020-04-10 01:29:16.488000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 01:29:16.488000000 Z
-    title: '4'
+  size: 265 x 265 cm
+  images:
+  - sys:
+      id: 4WsJDTyR4bTeU6KYuIMVuc
+      created_at: !ruby/object:DateTime 2020-04-14 13:54:52.883000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-14 13:54:52.883000000 Z
+    title: Autorretrato3
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/7kqeARxuhVWjNURQZEX3ER/39ef689cf38743e5cc36c2d339749491/4.JPG"
-  image2:
-    sys:
-      id: 4SUX8Fh0GUcHOnza5cmCSQ
-      created_at: !ruby/object:DateTime 2020-04-10 13:45:16.217000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:45:16.217000000 Z
-    title: '8'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4WsJDTyR4bTeU6KYuIMVuc/25b036fe4139abbeaf89141b6059364d/Autorretrato3.jpg"
+  - sys:
+      id: 7KDaEWKxf3jOUbxy3XXRId
+      created_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
+    title: Autorretrato1
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/4SUX8Fh0GUcHOnza5cmCSQ/d8cbe6890866637ecf8d1bb7df0befe8/8.JPG"
-  year: 2019
-  medium: Photography
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7KDaEWKxf3jOUbxy3XXRId/7cfb204463d5ab2982e08e3e1bda7d6f/Autorretrato1.jpg"
+  - sys:
+      id: 5DsD5xfyaquVdgqMU7IvAw
+      created_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
+    title: Autorretrato4
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5DsD5xfyaquVdgqMU7IvAw/97f0e144e037b7b3e108572b59562d2a/Autorretrato4.JPEG"
+  - sys:
+      id: 24dDNMaPKEL7XpHyX4NZeY
+      created_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
+    title: Autorretrato2
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/24dDNMaPKEL7XpHyX4NZeY/14d9112daafff2892ed2f3df16a5c594/Autorretrato2.jpg"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+    when an unknown printer took a galley of type and scrambled it to make a type
+    specimen book. It has survived not only five centuries, but also the leap into
+    electronic typesetting, remaining essentially unchanged. It was popularised in
+    the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+    and more recently with desktop publishing software like Aldus PageMaker including
+    versions of Lorem Ipsum.
