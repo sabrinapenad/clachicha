@@ -282,6 +282,7 @@
 }
 
 .work-post-img-container {
+  z-index: 0;
   width: 450px;
   margin-right: 100px;
   float: left;
