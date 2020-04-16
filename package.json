@@ -1,0 +1,25 @@
+{
+  "name": "clachicha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrinapenad/clachicha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrinapenad/clachicha/issues"
+  },
+  "homepage": "https://github.com/sabrinapenad/clachicha#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}

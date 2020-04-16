@@ -1,5 +1,31 @@
 /* MAIN */
 
+@media only screen and (max-width: 600px) {
+  .main-body {
+    background-size: cover!important;
+  }
+
+  .logo-img {
+    width: 100px!important;
+  }
+
+  .nav-bar {
+    display: block!important;
+    justify-content: center!important;
+    height: auto!important;
+    text-align: center!important;
+    background-color: transparent!important;
+    margin-top: 60px!important;
+  }
+
+  .nav-bar-item {
+    width: auto!important;
+    border-left: 7px black solid!important;
+    margin-bottom: 20px!important;
+  }
+}
+
+
 .main-body{
   margin: 50px;
   background-image: url("images/OPCION_2.svg");
@@ -45,9 +71,25 @@
 
 .nav-bar-item:hover {
   font-size: 40px;
+  text-decoration: none;
+  color: black;
 }
 
-/* PAGES */
+
+/* WORK */
+
+.top-bar-graph {
+  display: flex;
+}
+
+/* .work-graph {
+  width: 100%;
+}
+
+.work-graph-image {
+  max-width: 100%;
+  height: auto;
+} */
 
 .pages-logo-img {
   height: 90px;
@@ -63,6 +105,8 @@
 }
 
 .top-bar {
+  width: 100%;
+  float: left;
   display: flex;
   justify-content: space-between;
 }
@@ -70,7 +114,7 @@
 .bar-logo {
   padding-left: 50px;
   background-color: inherit;
-  width: 100%;
+  width: 200px;
 }
 
 .bar-logo-space {
@@ -209,79 +253,10 @@
   color: blue;
 }
 
-/* PAGES */
+/* TOP BAR */
 
-.pages-main-container {
-  display: flex;
-  margin-top: 40px;
-}
-
-.pages-images-container {
-  width: 60%;
-}
-
-.pages-main-img-container {
-  display: flex;
-  margin-bottom: 30px;
-  justify-content: center;
-}
-
-.pages-img-1 {
-  height: 400px;
-  width: 400px;
-  object-fit: cover;
-  border-radius: 10%;
-}
-
-.pages-secondary-images-container{
-  display: flex;
-  justify-content: space-around;
-  margin-bottom: 30px;
-}
-
-
-.pages-img-2 {
-  height: 200px;
-  width: 200px;
-  object-fit: cover;
-  border-radius: 10%;
-}
-
-.pages-title-info-main {
-  width: 40%;
-  display: inline;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.pages-title-info {
-  height: 230px;
-}
-
-.pages-title {
-  font-family: 'Bebas Neue';
-  letter-spacing: 2px;
-  padding-bottom: 10px;
-}
-
-.pages-title-container {
-  margin-bottom: 40px;
-}
-
-.page-info-container {
-  display: flex;
-  flex-direction: column;
-}
-
-.pages-info {
-  opacity: 90%;
-  font-size: 20px!important;
-}
-
-.pages-description {
-  font-family: 'Roboto';
-  font-size: 18px;
-  opacity: 90%;
+.pages-top-bar {
+  width: 100%;
 }
 
 .back-arrow-container {
@@ -290,7 +265,135 @@
 }
 
 .back-arrow-img {
-  width: 5%;
-  align-items: center;
+  width: 30px;
+}
+
+/* WORK POSTS */
+
+.work-posts {
+  display: flex;
+  margin-bottom: 60px;
+}
+
+.work-post-main-container {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.work-post-img-container {
+  z-index: 0;
+  width: 450px;
+  margin-right: 100px;
+  float: left;
+
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+.work-post-img {
+  border-radius: 10%;
+  border: 2px solid rgba(204,204,204,0.53);
+
+}
+
+.work-post-title-info-container {
+  width: 400px;
+  display: inline;
+  margin-right: 100px;
+}
+
+.work-post-title-info {
+  height: 230px;
+}
+
+.work-post-title-container {
+  margin-bottom: 40px;
+}
+
+.work-post-title {
+  font-family: 'Bebas Neue';
+  letter-spacing: 2px;
+  font-size: 40px;
+}
+
+.underline {
+  background-image: linear-gradient(120deg, #cf3a3a 0%, #cf3a3a 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.3em;
+  background-position: 0 88%;
+}
+
+.work-post-info-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+
+.work-post-info {
+  opacity: 90%;
+  font-size: 20px!important;
+}
+
+.work-post-description-container {
+  margin-bottom: 40px;
+}
+
+.work-post-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  opacity: 90%;
+}
+
+
+/* ABOUT AND CONTACT*/
+
+.pages-body {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 60px;
+}
+
+.pages-container {
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 40%;
+  float: left;
+}
+
+.pages-title-container {
+  display: inline-block;
+}
+
+.pages-description {
+  margin-top: 40px;
+}
+
+.contact-form {
+  margin-top: 40px;
+}
+
+.contact-container{
+  display: flex;
+}
+
+.contact-info {
+  display: flex;
+  margin-left: 200px;
+}
+
+.contact-items-container {
   justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-item {
+  font-family: 'Roboto';
+  font-weight: lighter;
+  font-size: 20px;
+  margin-bottom: 20px;
 }
