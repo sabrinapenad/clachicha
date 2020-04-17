@@ -1,4 +1,71 @@
 ---
+blogPosts:
+- sys:
+    id: 75TNWr77RyYDgk3aZL63dp
+    created_at: !ruby/object:DateTime 2020-04-17 20:28:58.745000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-17 20:28:58.745000000 Z
+    content_type_id: blogPosts
+    revision: 1
+  title: Leisure Time (1)
+  blog_date: '17/04/2019 '
+  blog_author: Clarisa Peña
+  images:
+  - sys:
+      id: 1XUXaEHUqn0wXbP232YEGP
+      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+    title: Art-Fair-1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
+  - sys:
+      id: 3EMNDfaoTtQAvmEX5Ojczy
+      created_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
+    title: Art-Fair-2
+    description: 
+    url: "//videos.ctfassets.net/w0gzgn8pc4mk/3EMNDfaoTtQAvmEX5Ojczy/55268915fcdfafa267f475464fd1c412/Art-Fair-2.mp4"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
+    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
+    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
+    ultrices gravida dictum.
+  description: |-
+    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
+
+    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
+- sys:
+    id: 6r4xHvbPc7fuRogtk51R4J
+    created_at: !ruby/object:DateTime 2020-04-17 18:41:59.841000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-17 18:59:20.838000000 Z
+    content_type_id: blogPosts
+    revision: 3
+  title: Leisure Time
+  blog_date: '17/04/2019 '
+  blog_author: Clarisa Peña
+  images:
+  - sys:
+      id: 1XUXaEHUqn0wXbP232YEGP
+      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+    title: Art-Fair-1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
+  - sys:
+      id: 3EMNDfaoTtQAvmEX5Ojczy
+      created_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
+    title: Art-Fair-2
+    description: 
+    url: "//videos.ctfassets.net/w0gzgn8pc4mk/3EMNDfaoTtQAvmEX5Ojczy/55268915fcdfafa267f475464fd1c412/Art-Fair-2.mp4"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
+    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
+    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
+    ultrices gravida dictum.
+  description: |-
+    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
+
+    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
 workPosts:
 - sys:
     id: 43K4mTYX67i6qhZBleXtrU

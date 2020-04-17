@@ -12,6 +12,11 @@ page_gen:
     name_expr: record['title'].split(' ').join('-')
     dir: '/work'
     template: work_post
+  - index_files: false
+    data: contentful.spaces.clachicha.blogPosts
+    name_expr: record['title'].split(' ').join('-')
+    dir: '/blog'
+    template: blog_post
 
 plugins:
   - data_page_generator

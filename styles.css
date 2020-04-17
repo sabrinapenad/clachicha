@@ -75,21 +75,37 @@
   color: black;
 }
 
+.modal-main {
+  position: fixed;
+  top: 20px;
+  display: flex;
+  height: 60%;
+  width: 60%;
+  /* margin: 100px; */
+  justify-content: center;
+  align-items: center;
+  transition: all .3s ease;
+}
 
-/* WORK */
+.modal-content {
+  background-color: white;
+}
+
+.modal-main-image {
+  height: 20px;
+  width: 20px;
+}
+
+.item-title {
+  font-size: 30px;
+  color: blue;
+}
+
+/* TOP BAR */
 
 .top-bar-graph {
   display: flex;
 }
-
-/* .work-graph {
-  width: 100%;
-}
-
-.work-graph-image {
-  max-width: 100%;
-  height: auto;
-} */
 
 .pages-logo-img {
   height: 90px;
@@ -109,6 +125,8 @@
   float: left;
   display: flex;
   justify-content: space-between;
+  background-image: url("/images/DESIGN.WORK.1.1.OPACITY.svg");
+  background-repeat: no-repeat;
 }
 
 .bar-logo {
@@ -207,7 +225,34 @@
     width: 30px;
 }
 
-/* ITEM */
+.pages-top-bar {
+  width: 100%;
+}
+
+.back-arrow-container {
+  padding-top: 15px;
+  padding-left: 50px;
+}
+
+.back-arrow-img {
+  width: 30px;
+}
+
+.pages-background-image {
+  margin-top: 30px;
+  margin-left: -90px;
+  /* opacity: 60%; */
+}
+
+.bar-image {
+  width: 1050px;
+}
+
+.flex-container {
+  display: flex
+}
+
+/* WORK */
 
 .item-img {
   height: 250px;
@@ -225,48 +270,6 @@
   margin-bottom: 100px;
 }
 
-/* MAIN */
-
-.modal-main {
-  position: fixed;
-  top: 20px;
-  display: flex;
-  height: 60%;
-  width: 60%;
-  /* margin: 100px; */
-  justify-content: center;
-  align-items: center;
-  transition: all .3s ease;
-}
-
-.modal-content {
-  background-color: white;
-}
-
-.modal-main-image {
-  height: 20px;
-  width: 20px;
-}
-
-.item-title {
-  font-size: 30px;
-  color: blue;
-}
-
-/* TOP BAR */
-
-.pages-top-bar {
-  width: 100%;
-}
-
-.back-arrow-container {
-  padding-top: 15px;
-  padding-left: 50px;
-}
-
-.back-arrow-img {
-  width: 30px;
-}
 
 /* WORK POSTS */
 
@@ -349,7 +352,7 @@
 }
 
 
-/* ABOUT AND CONTACT*/
+/* ABOUT AND CONTACT */
 
 .pages-body {
   display: flex;
@@ -396,4 +399,32 @@
   font-weight: lighter;
   font-size: 20px;
   margin-bottom: 20px;
+}
+
+/* BLOG */
+
+.blog-container {
+  margin-bottom: 150px;
+}
+
+.blog-item-img {
+  height: 250px;
+  object-fit: cover;
+  align-items: center;
+  border-radius: 5%;
+}
+
+.blog-title {
+  font-family: 'Bebas Neue';
+  letter-spacing: 2px;
+}
+
+.blog-info {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.blog-summary {
+  font-family: 'Roboto';
 }
