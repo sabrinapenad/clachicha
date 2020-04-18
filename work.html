@@ -5,7 +5,7 @@ permalink: work
 
 {% for item in site.data.contentful.spaces.clachicha.workPosts %}
 	<div class="col-lg-4 col-md-4 col-sm-12 px-5 col-margin">
-		<a href="./{{ item.title | split: ' ' | join: '-' }}">
+		<a href="/work/{{ item.title | split: ' ' | join: '-' | downcase }}">
 			<img class="item-img w-100" src="{{ item.images[0].url }}"/>
 		</a>
 	</div>
