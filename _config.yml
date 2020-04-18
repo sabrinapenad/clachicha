@@ -19,7 +19,7 @@ page_gen:
     template: blog_post
 
 plugins:
-  - data_page_generator
+  - jekyll-datapage-generator
 
 sass:
     load_paths:
