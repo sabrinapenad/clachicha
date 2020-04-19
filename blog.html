@@ -6,7 +6,7 @@ permalink: blog
 {% for item in site.data.contentful.spaces.clachicha.blogPosts %}
 	<div class="flex-container blog-container">
 		<div class="blog-image">
-			<a href="./{{ item.title | split: ' ' | join: '-' }}">
+			<a href="/blog/{{ item.title | split: ' ' | join: '-' | downcase }}">
 				<img class="blog-item-img w-100" src="{{ item.images[0].url }}"/>
 			</a>
 		</div>
