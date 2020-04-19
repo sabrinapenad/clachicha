@@ -1,72 +1,80 @@
 ---
-blogPosts:
+aboutPage:
 - sys:
-    id: 75TNWr77RyYDgk3aZL63dp
-    created_at: !ruby/object:DateTime 2020-04-17 20:28:58.745000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-17 20:28:58.745000000 Z
-    content_type_id: blogPosts
+    id: 3FcEhdztMxmjRBtTPSz4sB
+    created_at: !ruby/object:DateTime 2020-04-19 23:25:11.559000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-19 23:25:11.559000000 Z
+    content_type_id: aboutPage
     revision: 1
-  title: Leisure Time (1)
-  blog_date: '17/04/2019 '
-  blog_author: Clarisa Peña
-  images:
-  - sys:
-      id: 1XUXaEHUqn0wXbP232YEGP
-      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-    title: Art-Fair-1
+  description: A iaculis at erat pellentesque adipiscing commodo. Sagittis vitae et
+    leo duis ut diam quam nulla porttitor. Adipiscing commodo elit at imperdiet dui.
+    Convallis posuere morbi leo urna. Faucibus interdum posuere lorem ipsum. Sit amet
+    nisl suscipit adipiscing bibendum est ultricies integer quis. Est lorem ipsum
+    dolor sit amet consectetur adipiscing elit. Feugiat in fermentum posuere urna
+    nec tincidunt praesent semper. Dolor sit amet consectetur adipiscing elit. Sed
+    libero enim sed faucibus turpis in eu mi.
+  image:
+    sys:
+      id: 5AxUInzczjgbEsmwwLSVIB
+      created_at: !ruby/object:DateTime 2020-04-19 23:25:06.695000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-19 23:25:06.695000000 Z
+    title: about-me
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
-  - sys:
-      id: 3EMNDfaoTtQAvmEX5Ojczy
-      created_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
-    title: Art-Fair-2
-    description: 
-    url: "//videos.ctfassets.net/w0gzgn8pc4mk/3EMNDfaoTtQAvmEX5Ojczy/55268915fcdfafa267f475464fd1c412/Art-Fair-2.mp4"
-  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
-    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
-    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
-    ultrices gravida dictum.
-  description: |-
-    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
-
-    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
-- sys:
-    id: 6r4xHvbPc7fuRogtk51R4J
-    created_at: !ruby/object:DateTime 2020-04-17 18:41:59.841000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-17 18:59:20.838000000 Z
-    content_type_id: blogPosts
-    revision: 3
-  title: Leisure Time
-  blog_date: '17/04/2019 '
-  blog_author: Clarisa Peña
-  images:
-  - sys:
-      id: 1XUXaEHUqn0wXbP232YEGP
-      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-    title: Art-Fair-1
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
-  - sys:
-      id: 3EMNDfaoTtQAvmEX5Ojczy
-      created_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-17 18:41:06.992000000 Z
-    title: Art-Fair-2
-    description: 
-    url: "//videos.ctfassets.net/w0gzgn8pc4mk/3EMNDfaoTtQAvmEX5Ojczy/55268915fcdfafa267f475464fd1c412/Art-Fair-2.mp4"
-  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
-    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
-    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
-    ultrices gravida dictum.
-  description: |-
-    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
-
-    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5AxUInzczjgbEsmwwLSVIB/02345f9b08ab06de4e927e7b61fead34/about-me.JPG"
 workPosts:
+- sys:
+    id: Hhnu48QOkD3mgWtcyHMbE
+    created_at: !ruby/object:DateTime 2020-04-19 19:55:15.663000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-19 19:55:15.663000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Mural
+  medium: Mural
+  year: 2019
+  size: 200 x 200 cm
+  images:
+  - sys:
+      id: 2BRDVWCf2hKjJwiSddiwng
+      created_at: !ruby/object:DateTime 2020-04-19 19:54:07.981000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-19 19:54:07.981000000 Z
+    title: IMG 2024
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2BRDVWCf2hKjJwiSddiwng/d558de70b717a4e2eb3f46b5d3c55a3a/IMG_2024.jpg"
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum.
+- sys:
+    id: 1vXXzQRxh3iM5o1HBdiuME
+    created_at: !ruby/object:DateTime 2020-04-18 18:55:33.182000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-18 18:55:33.182000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Aquarela Clouds
+  medium: Aquarela
+  year: 2010
+  size: 30 x 30 cm
+  images:
+  - sys:
+      id: 3fotuDRMyE4af3mrjizY92
+      created_at: !ruby/object:DateTime 2020-04-18 18:53:56.089000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-18 18:53:56.089000000 Z
+    title: Nubes acuarela
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3fotuDRMyE4af3mrjizY92/b19844845e9ac309630186d9e622a820/Nubes_acuarela.jpg"
+  description: '"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
+    et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
+    quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
+    eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
+    ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius
+    modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut
+    enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+    nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit
+    qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui
+    dolorem eum fugiat quo voluptas nulla pariatur?"'
 - sys:
     id: 43K4mTYX67i6qhZBleXtrU
     created_at: !ruby/object:DateTime 2020-04-16 14:08:34.415000000 Z
@@ -184,3 +192,56 @@ workPosts:
     the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
     and more recently with desktop publishing software like Aldus PageMaker including
     versions of Lorem Ipsum.
+blogPosts:
+- sys:
+    id: 75TNWr77RyYDgk3aZL63dp
+    created_at: !ruby/object:DateTime 2020-04-17 20:28:58.745000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-19 00:52:53.382000000 Z
+    content_type_id: blogPosts
+    revision: 3
+  title: Duplicate Leisure Time
+  blog_date: '17/04/2019 '
+  blog_author: Clarisa Peña
+  images:
+  - sys:
+      id: 1XUXaEHUqn0wXbP232YEGP
+      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+    title: Art-Fair-1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
+    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
+    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
+    ultrices gravida dictum.
+  description: |-
+    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
+
+    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
+- sys:
+    id: 6r4xHvbPc7fuRogtk51R4J
+    created_at: !ruby/object:DateTime 2020-04-17 18:41:59.841000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-19 00:52:33.199000000 Z
+    content_type_id: blogPosts
+    revision: 4
+  title: Leisure Time
+  blog_date: '17/04/2019 '
+  blog_author: Clarisa Peña
+  images:
+  - sys:
+      id: 1XUXaEHUqn0wXbP232YEGP
+      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
+    title: Art-Fair-1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
+    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
+    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
+    ultrices gravida dictum.
+  description: |-
+    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
+
+    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.

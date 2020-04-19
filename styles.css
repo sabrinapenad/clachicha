@@ -3,6 +3,7 @@
 @media only screen and (max-width: 600px) {
   .main-body {
     background-size: cover!important;
+    background-color: #edeef0!important;
   }
 
   .logo-img {
@@ -116,6 +117,8 @@
   margin: 50px;
   background-image: url("images/OPCION_2.svg");
   background-size: cover;
+  background-repeat: no-repeat;
+
 }
 
 
@@ -350,7 +353,7 @@
 }
 
 .item-img {
-  height: 250px;
+  height: 284px;
   object-fit: cover;
   border-radius: 20%;
   align-items: center;
@@ -475,6 +478,7 @@
 .blog-posts-body {
   margin-bottom: 120px;
   display: flex;
+  background-color: #edeef0;
 }
 
 
@@ -523,16 +527,30 @@
 
 /* ABOUT AND CONTACT */
 
+.about-body {
+  background-color: #edeef0;
+}
+
+.about-image-container {
+  text-align: center;
+
+}
+.about-image {
+  width: 400px;
+  border-radius: 10%;
+}
+
 .contact-page-body {
   display: flex;
   flex-direction: column;
   margin-bottom: 60px;
+  background-color: #edeef0;
 }
 
 .pages-container {
   margin-top: 20px;
   margin-left: 80px;
-  width: 40%;
+  margin-right: 80px;
   float: left;
 }
 
@@ -542,6 +560,7 @@
 
 .pages-description {
   margin-top: 40px;
+  padding-left: 0px!important;
 }
 
 .contact-form {

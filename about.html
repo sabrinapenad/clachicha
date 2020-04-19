@@ -11,8 +11,15 @@ layout: default
     <div class="pages-title-container">
       <h1 class="pages-title underline">About Me</h1>
     </div>
-    <div class="pages-description">
-      <p>A iaculis at erat pellentesque adipiscing commodo. Sagittis vitae et leo duis ut diam quam nulla porttitor. Adipiscing commodo elit at imperdiet dui. Convallis posuere morbi leo urna. Faucibus interdum posuere lorem ipsum. Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Feugiat in fermentum posuere urna nec tincidunt praesent semper. Dolor sit amet consectetur adipiscing elit. Sed libero enim sed faucibus turpis in eu mi. </p>
+    <div class="about-description-image d-flex w-100">
+      {% for item in site.data.contentful.spaces.clachicha.aboutPage %}
+        <div class="pages-description col-6">
+          <p>{{ item.description }}</p>
+        </div>
+        <div class="about-image-container col-6">
+          <image class="about-image" src="{{ item.image.url }}?q=20"
+        </div>
+      {% endfor %}
     </div>
   </div>
 
