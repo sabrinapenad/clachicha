@@ -345,6 +345,10 @@
 
 /* WORK */
 
+.index-pages-body {
+  background-color: #edeef0;
+}
+
 .item-img {
   height: 250px;
   object-fit: cover;
@@ -366,6 +370,7 @@
 
 .work-post-body {
   display: flex;
+  background-color: #edeef0;
 }
 
 
@@ -390,7 +395,7 @@
 
 .work-post-img {
   border-radius: 10%;
-  border: 2px solid rgba(204,204,204,0.53);
+  /* border: 2px solid rgba(204,204,204,0.53); */
 
 }
 
