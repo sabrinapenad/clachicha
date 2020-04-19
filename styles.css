@@ -1,4 +1,4 @@
-/* MAIN */
+/* MOBILE */
 
 @media only screen and (max-width: 600px) {
   .main-body {
@@ -23,8 +23,94 @@
     border-left: 7px black solid!important;
     margin-bottom: 20px!important;
   }
+
+  .pages-body {
+    display: block!important;
+  }
+
+  .top-bar-arrow {
+    float: none!important;
+  }
+
+  .top-bar {
+    background-image: none!important;
+  }
+
+  .bar-logo {
+    display: flex!important;
+    align-items: center!important;
+    justify-content: space-evenly!important;
+    padding-left: 0px!important;
+    width: auto!important;
+
+  }
+
+  .back-arrow-container {
+    display: flex!important;
+    align-items: center!important;
+    justify-content: space-evenly!important;
+    padding-left: 0px!important;
+  }
+
+  .work-post-main-container {
+    display: block!important;
+    margin-top: 0px!important;
+  }
+
+  .work-post-img-container {
+    width: auto!important;
+    float: none!important;
+    margin: 20px!important;
+  }
+
+  .work-post-title-info-container {
+    width: auto!important;
+    margin: 25px!important;
+  }
+
+  .work-post-info-container {
+    text-align: center!important;
+
+  }
+
+  .blog-post-main-container {
+    margin: 25px!important;
+  }
+
+  .blog-container {
+    display: block!important;
+    margin: 25px!important;
+  }
+
+  .blog-index-container {
+    padding: 0px!important;
+    margin: 20px!important;
+  }
+
+  .blog-image {
+    margin-bottom: 20px;
+  }
+
+  .container {
+    width: auto!important;
+  }
+
+  .pages-container {
+    width: auto!important;
+    margin: 25px!important;
+  }
+
+  .contact-container {
+    flex-direction: column!important;
+  }
+
+  .contact-info {
+    margin-left: 30px!important;
+  }
+
 }
 
+/* MAIN */
 
 .main-body{
   margin: 50px;
@@ -127,6 +213,11 @@
   justify-content: space-between;
   background-image: url("/images/DESIGN.WORK.1.1.OPACITY.svg");
   background-repeat: no-repeat;
+}
+
+.top-bar-arrow {
+  float: left;
+  display: flex;
 }
 
 .bar-logo {
@@ -273,10 +364,10 @@
 
 /* WORK POSTS */
 
-.work-posts {
+.work-post-body {
   display: flex;
-  margin-bottom: 60px;
 }
+
 
 .work-post-main-container {
   display: flex;
@@ -305,13 +396,8 @@
 
 .work-post-title-info-container {
   width: 400px;
-  display: inline;
-  margin-right: 100px;
 }
 
-.work-post-title-info {
-  height: 230px;
-}
 
 .work-post-title-container {
   margin-bottom: 40px;
@@ -331,14 +417,14 @@
 }
 
 .work-post-info-container {
-  display: flex;
-  flex-direction: column;
   margin-bottom: 40px;
 }
 
 .work-post-info {
   opacity: 90%;
   font-size: 20px!important;
+  font-weight: bold!important;
+  font-family: 'Roboto';
 }
 
 .work-post-description-container {
@@ -351,10 +437,88 @@
   opacity: 90%;
 }
 
+/* BLOG */
+
+.blog-container {
+  margin: 80px;
+}
+
+.blog-item-img {
+  height: 250px;
+  object-fit: cover;
+  align-items: center;
+  border-radius: 5%;
+}
+
+.blog-title {
+  font-family: 'Bebas Neue';
+  letter-spacing: 2px;
+}
+
+.blog-info {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.blog-summary {
+  font-family: 'Roboto';
+}
+
+/* BLOG POSTS */
+
+.blog-posts-body {
+  margin-bottom: 120px;
+  display: flex;
+}
+
+
+.blog-post-main-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+}
+
+.blog-post-img-container {
+  z-index: 0;
+
+}
+
+
+.blog-post-title-container {
+  margin-bottom: 40px;
+}
+
+.blog-post-title {
+  font-family: 'Bebas Neue';
+  letter-spacing: 2px;
+  font-size: 40px;
+}
+
+.blog-post-info-container {
+  margin-bottom: 40px;
+}
+
+.blog-post-info {
+  opacity: 90%;
+  font-size: 20px!important;
+}
+
+.blog-post-description-container {
+  margin-bottom: 40px;
+}
+
+.blog-post-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  opacity: 90%;
+}
 
 /* ABOUT AND CONTACT */
 
-.pages-body {
+.contact-page-body {
   display: flex;
   flex-direction: column;
   margin-bottom: 60px;
@@ -398,33 +562,5 @@
   font-family: 'Roboto';
   font-weight: lighter;
   font-size: 20px;
-  margin-bottom: 20px;
-}
-
-/* BLOG */
-
-.blog-container {
-  margin-bottom: 150px;
-}
-
-.blog-item-img {
-  height: 250px;
-  object-fit: cover;
-  align-items: center;
-  border-radius: 5%;
-}
-
-.blog-title {
-  font-family: 'Bebas Neue';
-  letter-spacing: 2px;
-}
-
-.blog-info {
-  font-family: 'Roboto';
-  font-size: 15px;
-  font-weight: lighter;
-}
-
-.blog-summary {
-  font-family: 'Roboto';
+  margin-bottom: 10px;
 }

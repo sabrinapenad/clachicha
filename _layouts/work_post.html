@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<body class="pages-body">
+<body class="work-post-body">
 
   <div class="work-posts">
 
-    {% include top-bar-arrow.html %}
+    {% include top-bar-arrow-work.html %}
 
 
     <div class="work-post-main-container">
@@ -46,9 +46,9 @@ layout: default
             <h1 class="underline work-post-title">{{ page.title }}</h1>
           </div>
           <div class="work-post-info-container">
-            <h3 class="h3 work-post-info">Medium <strong>{{ page.category }}</strong></h3>
-            <h3 class="h3 work-post-info"> Year <strong>{{ page.year }}</strong></h3>
-            <h3 class="h3 work-post-info">Size <strong>{{ page.size }}</strong></h3>
+            <h3 class="h3 work-post-info">{{ page.medium }}</h3>
+            <h3 class="h3 work-post-info">{{ page.year }}</h3>
+            <h3 class="h3 work-post-info">{{ page.size }}</h3>
           </div>
           <div class="work-post-description-container">
             <p class="work-post-description">{{ page.description }}</p>

@@ -4,8 +4,8 @@ permalink: blog
 ---
 
 {% for item in site.data.contentful.spaces.clachicha.blogPosts %}
-	<div class="flex-container container blog-container">
-		<div class="blog-image mr-4">
+	<div class="flex-container blog-container">
+		<div class="blog-image">
 			<a href="./{{ item.title | split: ' ' | join: '-' }}">
 				<img class="blog-item-img w-100" src="{{ item.images[0].url }}"/>
 			</a>
