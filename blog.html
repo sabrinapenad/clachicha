@@ -4,17 +4,17 @@ permalink: blog
 ---
 
 {% for item in site.data.contentful.spaces.clachicha.blogPosts %}
-	<div class="flex-container blog-container">
+	<div class="blog-container">
 		<div class="blog-image">
 			<a href="/blog/{{ item.title | split: ' ' | join: '-' | downcase }}">
-				<img class="blog-item-img w-100" src="{{ item.images[0].url }}?q=20"/>
+				<img class="blog-item-img" src="{{ item.images[0].url }}?q=20"/>
 			</a>
 		</div>
-		<div class="blog-info-container ml-4">
+		<div class="blog-info-container">
 			<div class="blog-info-main">
 				<h1 class="blog-title">{{ item.title }}</h1>
-				<h3 class="blog-info">{{ item.blog_date }}</h3>
-				<h3 class="blog-info">{{ item.blog_author }}</h3>
+				<h3 class="blog-info"><span class="work-post-info-title">Date: </span>{{ item.blog_date }}</h3>
+				<h3 class="blog-info"><span class="work-post-info-title">Author: </span>{{ item.blog_author }}</h3>
 			</div>
 			<div class="blog-info-secondary mt-4">
 				<p class="blog-summary">{{ item.summary }}</p>

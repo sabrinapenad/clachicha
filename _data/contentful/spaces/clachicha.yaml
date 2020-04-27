@@ -1,18 +1,104 @@
 ---
+blogPosts:
+- sys:
+    id: 5N8U6qqiulhcVcFTFXgbTp
+    created_at: !ruby/object:DateTime 2020-04-26 23:28:53.466000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-27 00:21:28.210000000 Z
+    content_type_id: blogPosts
+    revision: 3
+  title: Exhibition Leisure Time
+  blog_date: 26/04/2020
+  blog_author: Clarisa Peña
+  images:
+  - sys:
+      id: 2yovUF0HRs0BzO6VwRFeg7
+      created_at: !ruby/object:DateTime 2020-04-26 22:58:06.847000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 22:58:06.847000000 Z
+    title: EXPO1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2yovUF0HRs0BzO6VwRFeg7/6e9498c726f316e7faabacc412247d43/EXPO1.JPG"
+  - sys:
+      id: 3E7MLPGRYGcx1mKKMzThPw
+      created_at: !ruby/object:DateTime 2020-04-26 23:03:22.303000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 23:03:22.303000000 Z
+    title: EXPO2
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3E7MLPGRYGcx1mKKMzThPw/ea50872c6538235a30a200728b6da0da/EXPO2.JPG"
+  summary: This post explains the IB Visual Arts Exhibition's process and challenges.
+    It was a long and difficult journey that made me discover a lot about myself and
+    what I like to create.
+  text:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: The most challenging experience during my high school career was doing
+          the IB Visual Arts Exhibition. I had to experiment with different artistic
+          techniques and elements to create a compilation of works that reflected
+          my learning process throughout these last two years. Also, I had to write
+          a curational rationale about it, and portray my ideas and explorations in
+          a process portfolio. This whole experience gave me a real idea of what means
+          and what does it take to be an artist. It also gave me the opportunity to
+          work with different materials that I’m not used to, and broaden my artistic
+          perspective.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'My exhibition is titled Leisure Time because the main theme throughout
+          it is entertainment, and what I do in my free time. Taking this into consideration
+          I started doing a mental map with all the different words that I could relate
+          to the theme, such as: partying, eating, listening to music, using my phone,
+          among others. Later, with each word or action I created a work that represented
+          best how I spend my time doing these things to avoid my reality and my responsibilities.'
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: My favorite pieces are the ones I did with collage, "Sonic" and "Abundance".
+          These demonstrate a 'chaotic energy' that somehow pleases and satisfies
+          me. The first, represents my connection to music, specifically my favorite
+          songs, while the second represents the 'party life'. They both use collage
+          to combine different elements that shouldn't be together.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: What I was most afraid of during this process was running out of ideas
+          or creative fuel. The goal I had in mind was to do 11 works, but I ended
+          up doing 10, because with the tenth I felt that the exhibition and the connection
+          between works was well done and finished. The ideas can run out, but you
+          just have to give your mind time to think and ventilate so that you can
+          create new and better stuff.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Some of the works took months to finish while others took weeks. I
+          am a very detailed and precise person so with my first works I focused on
+          reproducing my idea perfectly. Later I realized that this process was not
+          productive for the exhibition because a lot of time that could have been
+          used doing other things was spent in one little detail of one of my works.
+        marks: []
+        data: {}
+      data: {}
 aboutPage:
 - sys:
     id: 3FcEhdztMxmjRBtTPSz4sB
     created_at: !ruby/object:DateTime 2020-04-19 23:25:11.559000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-19 23:25:11.559000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-27 00:13:59.376000000 Z
     content_type_id: aboutPage
-    revision: 1
-  description: A iaculis at erat pellentesque adipiscing commodo. Sagittis vitae et
-    leo duis ut diam quam nulla porttitor. Adipiscing commodo elit at imperdiet dui.
-    Convallis posuere morbi leo urna. Faucibus interdum posuere lorem ipsum. Sit amet
-    nisl suscipit adipiscing bibendum est ultricies integer quis. Est lorem ipsum
-    dolor sit amet consectetur adipiscing elit. Feugiat in fermentum posuere urna
-    nec tincidunt praesent semper. Dolor sit amet consectetur adipiscing elit. Sed
-    libero enim sed faucibus turpis in eu mi.
+    revision: 5
   image:
     sys:
       id: 5AxUInzczjgbEsmwwLSVIB
@@ -21,41 +107,572 @@ aboutPage:
     title: about-me
     description: 
     url: "//images.ctfassets.net/w0gzgn8pc4mk/5AxUInzczjgbEsmwwLSVIB/02345f9b08ab06de4e927e7b61fead34/about-me.JPG"
+  about_description:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Hi! My name is Clarisa Peña and I’m a graduating high school student
+          from Caracas, Venezuela. Currently, I am finishing the IB Diploma Programme
+          with Visual Arts as one of my higher level subjects. I am passionate about
+          art and design and through this website I plan to share the work I have
+          made up to now, including my greatest art pieces. Besides, I want to show
+          the world all of my ideas and thoughts writing blog posts about my inspirations
+          and challenges while creating and learning about art.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: I am a person who really enjoys to express visually what I observe,
+          feel and imagine. My first hobby was drawing and painting anything I can
+          think of. I've been doing this since I was little, and I continue to do
+          it every day, reflecting on my ideas and the way I project them into paper.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'I am looking forward to keep creating and learning more about my passion
+          throughout my life, and sharing these experiences and creations in my website.
+          I plan to continue my career as an artist studying a double degree in Fine
+          Arts and Design in Madrid, Spain. Thanks for visiting! '
+        marks: []
+        data: {}
+      data: {}
 workPosts:
 - sys:
-    id: Hhnu48QOkD3mgWtcyHMbE
-    created_at: !ruby/object:DateTime 2020-04-19 19:55:15.663000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-19 19:55:15.663000000 Z
+    id: 2I0eFtVeC2tuQMGWEqrl7u
+    created_at: !ruby/object:DateTime 2020-04-26 21:35:49.983000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 23:06:02.979000000 Z
     content_type_id: workPosts
-    revision: 1
-  title: Mural
-  medium: Mural
-  year: 2019
-  size: 200 x 200 cm
+    revision: 3
+  title: Imaginarium
+  medium: Acrylic on canvas
+  year: 2020
+  size: 40 x 30 cm
   images:
   - sys:
-      id: 2BRDVWCf2hKjJwiSddiwng
-      created_at: !ruby/object:DateTime 2020-04-19 19:54:07.981000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-19 19:54:07.981000000 Z
-    title: IMG 2024
+      id: 6ByqKT4egjtjuLJu590hA8
+      created_at: !ruby/object:DateTime 2020-04-26 21:35:45.750000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:35:45.750000000 Z
+    title: IMG 7800
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/2BRDVWCf2hKjJwiSddiwng/d558de70b717a4e2eb3f46b5d3c55a3a/IMG_2024.jpg"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6ByqKT4egjtjuLJu590hA8/0fff53f5ccb4486e11c4d79b23f9b838/IMG_7800.jpg"
+  description: 'This painting was based in a drawing I made on my sketchbook. It represents
+    an imagined landscape. I used an exaggerated ammount of lines to demonstrate the
+    movement of nature. I chose this color palette for the sun to stand out in the
+    cold-colored environment. With the painting of this artwork I discovered that
+    I enjoy more to draw what comes to my mind rather than the things I see around
+    me.
+
+'
+- sys:
+    id: 7aY9y4WXg9RvC2YVWVtovA
+    created_at: !ruby/object:DateTime 2020-04-26 18:58:57.652000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 23:01:24.372000000 Z
+    content_type_id: workPosts
+    revision: 11
+  title: Sonic
+  medium: Collage on vinyl records (2 small and 2 large) and 3 CDs.
+  year: 2020
+  size: 'Small works: 12 x 12 cm, medium works: 17.5 x 17.5 cm, and large works: 30.5
+    x 30.5 cm'
+  images:
+  - sys:
+      id: 788D2EfMrC6Q8xrHNLck4I
+      created_at: !ruby/object:DateTime 2020-04-26 18:50:23.744000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:50:23.744000000 Z
+    title: OBRA3
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/788D2EfMrC6Q8xrHNLck4I/5c020801c2f459699c2a5d26f0cbdbaa/OBRA3.JPG"
+  - sys:
+      id: 3qSxnVnRxNj7pYCKRjKgi3
+      created_at: !ruby/object:DateTime 2020-04-26 19:04:31.622000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:51:47.607000000 Z
+    title: '1'
+    description: '"Undercover Martyn" by Two Door Cinema Club'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3qSxnVnRxNj7pYCKRjKgi3/0a6a8c43c16d5fc20e2fdcae8af95380/1.jpg"
+  - sys:
+      id: 4vYKQmmMkHaLYhf4Sucktr
+      created_at: !ruby/object:DateTime 2020-04-26 19:08:48.791000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:52:05.281000000 Z
+    title: '2'
+    description: '"Nanä" by Polo & Pan'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4vYKQmmMkHaLYhf4Sucktr/7c10efb43a372463b40ba696f2ef905c/2.jpg"
+  - sys:
+      id: sbueLuVqK8eYgygTkYP5k
+      created_at: !ruby/object:DateTime 2020-04-26 19:09:43.020000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:52:19.637000000 Z
+    title: '3'
+    description: '"DARE" by Gorillaz'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/sbueLuVqK8eYgygTkYP5k/84dfe3d30cf8da2eddc4efaa0aa87728/3.png"
+  - sys:
+      id: 4nXbhm4aIiJVCRt27wHwG8
+      created_at: !ruby/object:DateTime 2020-04-26 19:10:28.421000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:52:34.663000000 Z
+    title: '4'
+    description: '"When you die" by MGMT'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4nXbhm4aIiJVCRt27wHwG8/1336896c03ec8c9ba4455ac593281bdd/4.png"
+  - sys:
+      id: 7EMV1xYhCuN92QlJ4rakA2
+      created_at: !ruby/object:DateTime 2020-04-26 19:12:00.409000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:52:50.042000000 Z
+    title: '5'
+    description: '"ilomilo" by Billie Eilish'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7EMV1xYhCuN92QlJ4rakA2/ea6b19d3e27b4a6c6572aed547c2dc24/5.png"
+  - sys:
+      id: 546QIuAIvEXZKqqWz8n3X
+      created_at: !ruby/object:DateTime 2020-04-26 19:16:27.194000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:53:07.556000000 Z
+    title: '6'
+    description: '"Caiga la Noche" by Los Mesoneros'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/546QIuAIvEXZKqqWz8n3X/204d1a3fa06c4fa74db702237312034a/6.png"
+  - sys:
+      id: 1svNxOIj4Hqtli87BdQBML
+      created_at: !ruby/object:DateTime 2020-04-26 19:18:32.016000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:53:21.545000000 Z
+    title: '7'
+    description: '"Small Worlds" by Mac Miller'
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1svNxOIj4Hqtli87BdQBML/6d7f6a8624fb315864c3c9d8503a109a/7.png"
+  description: This series is the interpretation of my favorite songs and how they
+    make me feel, to demonstrate how I listen to music in my free time to get away
+    from reality. I made these collages on discs so that their direct relationship
+    with music and sound could be understood. This work was influenced by an artist
+    called Joe Webb, who works with collage, and is characterized by using frames
+    and images from galaxies. Similarly, I worked with the same elements.
+- sys:
+    id: 4jGkcjSUwviFDwO4rqKslf
+    created_at: !ruby/object:DateTime 2020-04-26 22:46:47.062000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:46:47.062000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Self-portrait without me
+  medium: Photography
+  year: 2019
+  size: 3,888 x 2,592 px
+  images:
+  - sys:
+      id: 6mOdIA8iGx5FLX2Zp1Ire8
+      created_at: !ruby/object:DateTime 2020-04-26 22:45:28.532000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 22:45:28.532000000 Z
+    title: Foto Clarisa
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6mOdIA8iGx5FLX2Zp1Ire8/29027b456de67091f665f57b5111bc0a/Foto_Clarisa.jpg"
+  description: Through photography and objects like clothing, I represented how I
+    feel in front of other people. I organized the objects so that only the yellow
+    shoes stand out against the rest of the dark clothes. This is my self-portrait
+    since I feel identified with the shoes and their bright color.
+- sys:
+    id: 5jYuJVFbZm9ixwcJfQQK7L
+    created_at: !ruby/object:DateTime 2020-04-26 18:45:25.906000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:42:15.604000000 Z
+    content_type_id: workPosts
+    revision: 3
+  title: Photographic Rally
+  medium: Photography
+  year: 2019
+  size: 3,888 x 2,592 px each
+  images:
+  - sys:
+      id: 2yn0L3dS3XZRGf24ThnYcX
+      created_at: !ruby/object:DateTime 2020-04-26 18:33:00.271000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:50:24.572000000 Z
+    title: MG 0050
+    description: Serendipity
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2yn0L3dS3XZRGf24ThnYcX/343ed318659e34abfc7ce2ee4088b268/_MG_0050.JPG"
+  - sys:
+      id: 6nK8huCKu3YGIDYNKFz2zK
+      created_at: !ruby/object:DateTime 2020-04-26 18:34:04.452000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:50:15.337000000 Z
+    title: MG 0054
+    description: Artificial equinox
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6nK8huCKu3YGIDYNKFz2zK/3a91e5b368b9758156678ac486e5d121/_MG_0054.JPG"
+  - sys:
+      id: 1lOzSyRBccQwH7Gbn6QVpM
+      created_at: !ruby/object:DateTime 2020-04-26 18:35:38.633000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:50:40.654000000 Z
+    title: MG 0086
+    description: A pinhole portrait
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1lOzSyRBccQwH7Gbn6QVpM/6aa2bf3bb548856f25c7cd05f77dcd3e/_MG_0086.JPG"
+  - sys:
+      id: 24hpsK7xkahz1UouL8BLW0
+      created_at: !ruby/object:DateTime 2020-04-26 18:39:23.011000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:50:52.951000000 Z
+    title: MG 0107
+    description: A human autophilia
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/24hpsK7xkahz1UouL8BLW0/05ea6969f1cbcfea8c3d9020a2f85f5b/_MG_0107.JPG"
+  - sys:
+      id: 4AeAXBZ71P66xRgrRfSjXI
+      created_at: !ruby/object:DateTime 2020-04-26 18:42:09.611000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:51:04.923000000 Z
+    title: MG 0113
+    description: By far most things look nice
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4AeAXBZ71P66xRgrRfSjXI/d9fe0840f06172937293a3c1c565d9ce/_MG_0113.JPG"
+  description: This is a series of photographs done during a rally. It demonstrates
+    how photography can be used to represent words or phrases. I had limited time
+    and space to look for compositions that represented different phrases.
+- sys:
+    id: 4p2gbjtOCFJdtMvoUQBc2P
+    created_at: !ruby/object:DateTime 2020-04-26 18:00:03.334000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:41:14.298000000 Z
+    content_type_id: workPosts
+    revision: 3
+  title: 10 Commandments
+  medium: Photography
+  year: 2019
+  size: 3,888 x 2,592 px
+  images:
+  - sys:
+      id: 5nrxVQEedfJj9dxqlHCPG8
+      created_at: !ruby/object:DateTime 2020-04-26 17:27:00.736000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:45:26.620000000 Z
+    title: '1'
+    description: "“I am the Lord thy God, thou shalt not have any strange gods before
+      Me.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5nrxVQEedfJj9dxqlHCPG8/cfd248f141ddd6cb4c8923a3875a8fe4/1.JPG"
+  - sys:
+      id: 6JaIvNtIxGw9fyKtwl0Fm9
+      created_at: !ruby/object:DateTime 2020-04-26 17:28:51.619000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:45:42.907000000 Z
+    title: 2 copy
+    description: "“Thou shalt not take the name of the Lord thy God in vain.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6JaIvNtIxGw9fyKtwl0Fm9/e1e073625ee82d32f1c62a10cc1289f5/2_copy.JPG"
+  - sys:
+      id: 6VZHJqEjO5LEumKe3zTMf9
+      created_at: !ruby/object:DateTime 2020-04-26 17:30:46.725000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:46:01.725000000 Z
+    title: 3?
+    description: "“Remember to keep holy the Sabbath day.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6VZHJqEjO5LEumKe3zTMf9/7ba2bf49064df216896df3ef719400e7/3_.JPG"
+  - sys:
+      id: ahPAN6IstuKQRFaQaprSI
+      created_at: !ruby/object:DateTime 2020-04-26 17:37:13.734000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:46:18.315000000 Z
+    title: 4 copy
+    description: "“Honor thy father and mother.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/ahPAN6IstuKQRFaQaprSI/124dd093404043235e379e484a83a3e9/4_copy.JPG"
+  - sys:
+      id: 14fZuvPt0YLkJP0eJScqAp
+      created_at: !ruby/object:DateTime 2020-04-26 17:41:19.503000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:46:35.879000000 Z
+    title: '5'
+    description: "“Thou shalt not kill.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/14fZuvPt0YLkJP0eJScqAp/08bfbd98579cb45b5539afcb8fcc5c0d/5.JPG"
+  - sys:
+      id: TWpup1nP6nJLPl8izDUwh
+      created_at: !ruby/object:DateTime 2020-04-26 17:42:52.452000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:46:54.195000000 Z
+    title: '6'
+    description: "“Thou shalt not commit adultery.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/TWpup1nP6nJLPl8izDUwh/f10930f1ab5eb0a20b4f19f44f0f2dcb/6.JPG"
+  - sys:
+      id: 4IKKf6sKj22UeVKGiCmRG3
+      created_at: !ruby/object:DateTime 2020-04-26 17:44:28.507000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:47:11.444000000 Z
+    title: '7'
+    description: "“Thou shalt not steal.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4IKKf6sKj22UeVKGiCmRG3/ab71549eef879eedd4ef7c7e516cd6f9/7.JPG"
+  - sys:
+      id: 4s9Jzis4acuQ0eGJqGZ3lm
+      created_at: !ruby/object:DateTime 2020-04-26 17:48:47.215000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:47:28.065000000 Z
+    title: '8'
+    description: "“Thou shalt not bear false witness against thy neighbor.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4s9Jzis4acuQ0eGJqGZ3lm/9b65aba1aa96a2c13119f024096b2833/8.JPG"
+  - sys:
+      id: 3TOVcS7hOpAPBVL7Pwa3hF
+      created_at: !ruby/object:DateTime 2020-04-26 17:50:49.188000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:47:53.818000000 Z
+    title: '9'
+    description: "“Thou shalt not covet thy neighbor’s wife.”"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3TOVcS7hOpAPBVL7Pwa3hF/84cd8392672db969d994a71e52019a87/9.JPG"
+  - sys:
+      id: 1buH0PlnFGUWiSFgyErGr1
+      created_at: !ruby/object:DateTime 2020-04-26 17:55:33.777000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:48:29.771000000 Z
+    title: '10'
+    description: “Thou shalt not covet thy neighbor’s goods."
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1buH0PlnFGUWiSFgyErGr1/260405c8d6c856fdb2473f1785a3f59b/10.JPG"
+  description: This series of photographs demonstrate my interpretation of the 10
+    Christian Commandments, using traffic and street signs as the 'common thread'.
+    One of the instructions for this work was to avoid any religious references. I
+    learned that photography can be used as a method of narration and interpretation
+    of words.
+- sys:
+    id: 2RhYSQuAZnEN3cK0d3ugsC
+    created_at: !ruby/object:DateTime 2020-04-26 21:39:05.017000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:39:22.319000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Aesthetic Experience
+  medium: Collage on paper
+  year: 2019
+  size: 34.5 x 28.2 cm
+  images:
+  - sys:
+      id: 6uP1CPYJ2S7Z8zXE4zg5Gh
+      created_at: !ruby/object:DateTime 2020-04-26 21:37:29.928000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:37:29.928000000 Z
+    title: ExperienciaEstetica
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6uP1CPYJ2S7Z8zXE4zg5Gh/22a3250a9dda6878c9f83b565a0c110d/ExperienciaEstetica.jpg"
+  description: With this work I wanted to represent how I feel while I touch my dog.
+    I used different images of soft textures to imitate his hair, and on top, pasted
+    a hand to emulate the action taking place.
+- sys:
+    id: 2DxPXQ8IKHi3eF3VZwe4O7
+    created_at: !ruby/object:DateTime 2020-04-26 21:29:28.461000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:36:48.756000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Touch
+  medium: Graphite and collage on paper
+  year: 2018
+  size: 40.5 x 29.2 cm
+  images:
+  - sys:
+      id: 4Wfp6WUPumzoGz03zyFZsf
+      created_at: !ruby/object:DateTime 2020-04-26 21:26:38.621000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:26:38.621000000 Z
+    title: Tacto
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4Wfp6WUPumzoGz03zyFZsf/4e002f3ce4fb5d688486091a504b753d/Tacto.JPEG"
+  description: 'This work is a collage between pictures and drawings to represent
+    the importance of our hands. Human hands are different from animals'' because
+    they are capable of doing so many more things such as writing, creating, feel
+    and transmit emotions. '
+- sys:
+    id: 781TmgoWDqYauxabJhEzPA
+    created_at: !ruby/object:DateTime 2020-04-26 21:24:30.230000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:35:40.119000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Clarisa
+  medium: Acrylic on paper
+  year: 2020
+  size: 34.3 x 28.3 cm
+  images:
+  - sys:
+      id: 1OZMI8l6keIbGYLIpOE7j1
+      created_at: !ruby/object:DateTime 2020-04-26 21:21:12.334000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:21:12.334000000 Z
+    title: Autorretrato Posterized
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1OZMI8l6keIbGYLIpOE7j1/e2a5212c307f6510e88bba1c006e2cb6/Autorretrato_Posterized.jpg"
+  description: This self-portrait is based on a posterized picture of myself. Different
+    shades of purple and blue are used to represent the lighting in the hair and face.
+    This technique enables the artist to separate the different tonal values to create
+    dimension to an object or person.
+- sys:
+    id: 5Gtl5Bs3zOmcqOx1elWiwQ
+    created_at: !ruby/object:DateTime 2020-04-26 21:18:58.587000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:34:43.484000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Unconscious
+  medium: Series of three drawings made with marker and acrylic on paper.
+  year: 2019
+  size: 32.5 x 48 cm each
+  images:
+  - sys:
+      id: 5JtX6mItugVjbSqIQ5a1IR
+      created_at: !ruby/object:DateTime 2020-04-26 21:16:41.415000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:16:41.415000000 Z
+    title: '1'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5JtX6mItugVjbSqIQ5a1IR/4e7b6f6d9a78eb430ee79fe5145bdc08/1.png"
+  - sys:
+      id: 4JvvcO8HU6hRvMqUzhpp1x
+      created_at: !ruby/object:DateTime 2020-04-26 21:17:19.853000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:17:19.853000000 Z
+    title: '2'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4JvvcO8HU6hRvMqUzhpp1x/3709f9ed7d759e7d51823364a15bfdd4/2.png"
+  - sys:
+      id: 49O8HddDXbRXVRcxVs8Glu
+      created_at: !ruby/object:DateTime 2020-04-26 21:18:01.971000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:18:01.971000000 Z
+    title: '3'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/49O8HddDXbRXVRcxVs8Glu/a50b25f36c7ca2124fe535794543292c/3.png"
+  - sys:
+      id: 6LCnIXKewP56p7vk2V5kYY
+      created_at: !ruby/object:DateTime 2020-04-26 21:18:40.895000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:18:40.895000000 Z
+    title: '4'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6LCnIXKewP56p7vk2V5kYY/ab87f11971eee1364e610559ddfa75de/4.png"
+  description: This series is based on the concept of sleeping. Throughout the three
+    works, the use of color evolves to show how this action is a form of exploration
+    of my inner world. In the same way, it is a way of evading and resting from the
+    world around me and concentrating on myself.
+- sys:
+    id: 5UBR10aRVZlrHzIKSrDdtN
+    created_at: !ruby/object:DateTime 2020-04-26 20:30:08.314000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:29:51.670000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Change of setting
+  medium: Photography
+  year: 2019
+  size: 469 x 313 px each
+  images:
+  - sys:
+      id: 7FiE1ND1Ijp0lcwtZhKfLW
+      created_at: !ruby/object:DateTime 2020-04-26 20:27:26.397000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:27:26.397000000 Z
+    title: MG 0815
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7FiE1ND1Ijp0lcwtZhKfLW/5e281b3d152b715b84b29546d27c69b6/_MG_0815.JPG"
+  - sys:
+      id: 1ya4sEFzEzRvu3JhHV6Zvy
+      created_at: !ruby/object:DateTime 2020-04-26 20:28:09.512000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:28:09.512000000 Z
+    title: MG 0942
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1ya4sEFzEzRvu3JhHV6Zvy/3ef1fa781ec09a753740a1df11dcf340/_MG_0942.JPG"
+  - sys:
+      id: 18zbA7MXMDUlf5jpO7qDOn
+      created_at: !ruby/object:DateTime 2020-04-26 20:28:37.563000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:28:37.563000000 Z
+    title: MG 0957
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/18zbA7MXMDUlf5jpO7qDOn/174980e04a773b1dee4186d519258f7d/_MG_0957.JPG"
+  - sys:
+      id: 1GyKL6RIkYj26GwmOHIZZc
+      created_at: !ruby/object:DateTime 2020-04-26 20:29:03.741000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:29:03.741000000 Z
+    title: MG 0962
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1GyKL6RIkYj26GwmOHIZZc/ea7206bf8a5be7cf7fc0b8b90ab44304/_MG_0962.JPG"
+  - sys:
+      id: 4l3iw84aNPhXJJDP0nyfkD
+      created_at: !ruby/object:DateTime 2020-04-26 20:29:27.023000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:29:27.023000000 Z
+    title: IMG 1006
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4l3iw84aNPhXJJDP0nyfkD/8c49108d6653a1c23937ea94698f7fd2/IMG_1006.JPG"
+  description: During my trip to Spain in summer 19’ I took a lot of pictures. These
+    six photos taken in Mallorca and Madrid demonstrate how humans and nature bond.
+    They also represent the beauty that all these different settings have and how
+    I feel comfortable and calm in this environment.
+- sys:
+    id: CGpWeGHNwqkYJXJE6qOAw
+    created_at: !ruby/object:DateTime 2020-04-26 20:14:37.059000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:27:53.102000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Abundance
+  medium: Collage on paper
+  year: 2020
+  size: 134.5 x 32.8 cm
+  images:
+  - sys:
+      id: 1DFLVggPXvNCuahYfdVYPh
+      created_at: !ruby/object:DateTime 2020-04-26 20:08:35.973000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:08:35.973000000 Z
+    title: abundancia
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1DFLVggPXvNCuahYfdVYPh/a9ffebd0b0ed4753f1cdb419227afc56/abundancia.jpg"
+  - sys:
+      id: 7qbDrN46gKdrbODbWlQuh
+      created_at: !ruby/object:DateTime 2020-04-26 20:09:29.781000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:09:29.781000000 Z
+    title: abun1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7qbDrN46gKdrbODbWlQuh/8d277503caa20d6f4f3d9cc19b88edac/abun1.jpg"
+  - sys:
+      id: 70w4vhOxB7LTl9BCTXuNnx
+      created_at: !ruby/object:DateTime 2020-04-26 20:10:50.666000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:10:50.666000000 Z
+    title: abun2
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/70w4vhOxB7LTl9BCTXuNnx/087371575cc5abe797fd3f7450d66c89/abun2.jpg"
+  - sys:
+      id: 1H6deIVsb191sMklQgRsbq
+      created_at: !ruby/object:DateTime 2020-04-26 20:12:46.719000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:12:46.719000000 Z
+    title: abun3
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1H6deIVsb191sMklQgRsbq/e2896b93d24c03b61a7f064456e24f19/abun3.jpg"
+  description: This work is my interpretation of a party. It seeks to transmit the
+    various nightlife stories. With the mix of the character's proportions and the
+    'absurd' elements such as animals, airplanes and fire, I want to demonstrate the
+    chaotic atmosphere of the party and how it allows me to enter another world and
+    create new experiences with different people.
+- sys:
+    id: 14Ppz61mO3eXJdVUatqBiw
+    created_at: !ruby/object:DateTime 2020-04-26 18:25:34.441000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:20:45.108000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Mixes
+  medium: Spray paint on 3 vinyl records and 2 CDs
+  year: 2020
+  size: 'Small works: 12 x 12 cm, and medium works: 17.5 x 17.5 cm'
+  images:
+  - sys:
+      id: 3Higa4d2akvAScQsjjXKbV
+      created_at: !ruby/object:DateTime 2020-04-26 18:19:55.183000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:19:55.183000000 Z
+    title: OBRA2
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3Higa4d2akvAScQsjjXKbV/49ebdedeb05c13216a12f541cb3303fd/OBRA2.JPG"
+  - sys:
+      id: 1zZmk8K3Asl1XaIDwsrMLA
+      created_at: !ruby/object:DateTime 2020-04-26 18:20:44.130000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:20:44.130000000 Z
+    title: '1'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1zZmk8K3Asl1XaIDwsrMLA/e1a95fb119e53dc98997d6eafa871e86/1.png"
+  - sys:
+      id: 1gb0C0Ql8MY7sL6J2XYUAr
+      created_at: !ruby/object:DateTime 2020-04-26 18:21:40.077000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:21:40.077000000 Z
+    title: '2'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1gb0C0Ql8MY7sL6J2XYUAr/2803f4e30780da6c8a0e0c16480dcc99/2.png"
+  - sys:
+      id: 35hpBH1IEa4G1BD95nk0mQ
+      created_at: !ruby/object:DateTime 2020-04-26 18:23:04.051000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:23:04.051000000 Z
+    title: '3'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/35hpBH1IEa4G1BD95nk0mQ/0956235a2111dd0518431851a3f2c910/3.png"
+  - sys:
+      id: 4h3mUGVsvIPoGNhUfBVeG4
+      created_at: !ruby/object:DateTime 2020-04-26 18:24:01.680000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:24:01.680000000 Z
+    title: '4'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4h3mUGVsvIPoGNhUfBVeG4/f6657d94d78a04d667dda633c253dc81/4.png"
+  - sys:
+      id: 65wXUoUNEPz1rYBNxAVBD9
+      created_at: !ruby/object:DateTime 2020-04-26 18:24:53.055000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:24:53.055000000 Z
+    title: '5'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/65wXUoUNEPz1rYBNxAVBD9/d01480690d5b64d2a9f1b5654b1b1916/5.png"
+  description: This series is an intervention of records with spray paint, based on
+    the influence that graffiti has on me. The color scheme is used to demonstrate
+    the mix of sounds that can be heard in music. I seek to convey the feelings produced
+    by different music genres. In the same way, how this has become a method of isolation
+    from the outside world and exploration of my identity.
 - sys:
     id: 1vXXzQRxh3iM5o1HBdiuME
     created_at: !ruby/object:DateTime 2020-04-18 18:55:33.182000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-18 18:55:33.182000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:16:33.727000000 Z
     content_type_id: workPosts
-    revision: 1
-  title: Aquarela Clouds
-  medium: Aquarela
-  year: 2010
-  size: 30 x 30 cm
+    revision: 3
+  title: Sky
+  medium: Watercolor on paper
+  year: 2019
+  size: 35.1 x 27 cm
   images:
   - sys:
       id: 3fotuDRMyE4af3mrjizY92
@@ -64,184 +681,512 @@ workPosts:
     title: Nubes acuarela
     description: 
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3fotuDRMyE4af3mrjizY92/b19844845e9ac309630186d9e622a820/Nubes_acuarela.jpg"
-  description: '"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-    et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-    quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-    eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-    ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius
-    modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut
-    enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
-    nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit
-    qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui
-    dolorem eum fugiat quo voluptas nulla pariatur?"'
+  description: This is my first composition using watercolor. I wanted to represent
+    a sky, with pink clouds and a dark background. I used pink and black to create
+    a contrast between the different colors. The diverse shades were made using more
+    or less water with the color. Then I decided to add stars with a white pen.
 - sys:
-    id: 43K4mTYX67i6qhZBleXtrU
-    created_at: !ruby/object:DateTime 2020-04-16 14:08:34.415000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-16 14:08:34.415000000 Z
+    id: 4rMPMJoc73sQoFZyMU2TdK
+    created_at: !ruby/object:DateTime 2020-04-26 18:10:40.314000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:14:31.217000000 Z
     content_type_id: workPosts
-    revision: 1
-  title: Marker Clouds
-  medium: Marker
+    revision: 2
+  title: Bob Octopus
+  medium: Acrylic on paper, pasted on wall
   year: 2018
-  size: 20 x 30 cm
+  size: 131 x 97 cm
   images:
   - sys:
-      id: 3RLkMKiHPCVRXq08oyTytd
-      created_at: !ruby/object:DateTime 2020-04-10 13:49:07.846000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:49:07.846000000 Z
-    title: Marker 1
+      id: 2TZiRc8RFKLskY7vpi52KZ
+      created_at: !ruby/object:DateTime 2020-04-26 18:09:29.095000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:09:29.095000000 Z
+    title: IMG 2024
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/3RLkMKiHPCVRXq08oyTytd/73b41190167b9578470d4c26f381a9cb/marker_1.jpg"
-  description: 'A iaculis at erat pellentesque adipiscing commodo. Sagittis vitae
-    et leo duis ut diam quam nulla porttitor. Adipiscing commodo elit at imperdiet
-    dui. Convallis posuere morbi leo urna. Faucibus interdum posuere lorem ipsum.
-    Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis. Est lorem
-    ipsum dolor sit amet consectetur adipiscing elit. Feugiat in fermentum posuere
-    urna nec tincidunt praesent semper. Dolor sit amet consectetur adipiscing elit.
-    Sed libero enim sed faucibus turpis in eu mi. '
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2TZiRc8RFKLskY7vpi52KZ/6601b115a173a47ff0e5c32bbefb0e78/IMG_2024.jpg"
+  description: Since my parents don’t let me paint my wall, I cover it with painted
+    paper. This mural is the latest I have done, an octopus that appears to be coming
+    out of my bed. I decided to represent its tentacles in black and white with a
+    cartoonish style. I have always been interested for the mysteries of the sea,
+    and this was my way of interpreting this fascination.
 - sys:
-    id: txZiiSIO8uC5YolfMKaE1
-    created_at: !ruby/object:DateTime 2020-04-16 14:07:18.477000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-16 14:07:18.477000000 Z
+    id: 3ytOJfPhqhZyuc1t0SOlc8
+    created_at: !ruby/object:DateTime 2020-04-26 18:06:59.750000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:06:02.374000000 Z
     content_type_id: workPosts
-    revision: 1
-  title: 3D TV
-  medium: 3D
-  year: 2019
-  size: 200 x 400 cm
+    revision: 2
+  title: Fortune
+  medium: Marker on paper
+  year: 2018
+  size: 32.8 x 48 cm
   images:
   - sys:
-      id: 6l0eSrrDeWfZvZV6I5844u
-      created_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:52:20.750000000 Z
-    title: IMG 1991
+      id: 3aMzkTOiEfvTrqBogkuWaS
+      created_at: !ruby/object:DateTime 2020-04-26 18:05:38.063000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:05:38.063000000 Z
+    title: Balance
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/6l0eSrrDeWfZvZV6I5844u/edeafe1d450569d8da428c56cf974148/IMG_1991.jpg"
-  - sys:
-      id: 5WOKkVJZ7xmo5Ehh5R5Oed
-      created_at: !ruby/object:DateTime 2020-04-10 13:52:48.700000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:52:48.700000000 Z
-    title: IMG 1723
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5WOKkVJZ7xmo5Ehh5R5Oed/66c3f4bec140fd76a351cc594255f6e4/IMG_1723.jpg"
-  - sys:
-      id: 4VMdj3M8YUZPJj4NdXLaPo
-      created_at: !ruby/object:DateTime 2020-04-10 13:53:22.619000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:53:22.619000000 Z
-    title: IMG 1721
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/4VMdj3M8YUZPJj4NdXLaPo/47131c98f79ae941ea1e3377889f8c34/IMG_1721.jpg"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet
-    consectetur adipiscing elit duis tristique. Eu lobortis elementum nibh tellus
-    molestie nunc non blandit massa. Blandit turpis cursus in hac habitasse platea
-    dictumst. Massa tempor nec feugiat nisl pretium. Massa tincidunt dui ut ornare
-    lectus sit amet. Aliquet porttitor lacus luctus accumsan tortor posuere ac. Turpis
-    egestas integer eget aliquet nibh praesent tristique. \n\nEgestas pretium aenean
-    pharetra magna ac placerat vestibulum lectus mauris. Dapibus ultrices in iaculis
-    nunc sed augue. Quam vulputate dignissim suspendisse in est. Aliquam sem fringilla
-    ut morbi tincidunt augue interdum velit euismod. Sed sed risus pretium quam vulputate
-    dignissim suspendisse in est. Vitae et leo duis ut diam quam. Vitae sapien pellentesque
-    habitant morbi. Orci eu lobortis elementum nibh tellus molestie nunc. Eget mauris
-    pharetra et ultrices neque ornare aenean euismod elementum."
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3aMzkTOiEfvTrqBogkuWaS/07fffafebd1f366cd2da4db487652ffb/Balance.jpg"
+  description: This is my abstract interpretation of feeling fortunate. I used the
+    line to create different sized circles that connect in some way, because for me
+    fortune means harmony and union. I managed to visually communicate how the linking
+    of small and medium circular shapes can build larger elements, demonstrating in
+    the same way how different small events can fulfill and somehow "complete" a person.
 - sys:
-    id: 7aES9C3qm8Pts6ZIDQtkhY
-    created_at: !ruby/object:DateTime 2020-04-14 13:55:57.168000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-14 13:55:57.168000000 Z
+    id: 4Y3kY3V58E0hDU6wWxjZeV
+    created_at: !ruby/object:DateTime 2020-04-26 17:17:17.743000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:04:24.066000000 Z
     content_type_id: workPosts
-    revision: 1
-  title: Collage Self Portrait
+    revision: 3
+  title: Yellow
   medium: Collage
   year: 2019
-  size: 265 x 265 cm
+  size: 28.2 x 34.5 cm
   images:
   - sys:
-      id: 4WsJDTyR4bTeU6KYuIMVuc
-      created_at: !ruby/object:DateTime 2020-04-14 13:54:52.883000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-14 13:54:52.883000000 Z
-    title: Autorretrato3
+      id: VZyYKOpoAOdQwcLdJZTvt
+      created_at: !ruby/object:DateTime 2020-04-26 17:15:17.500000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 17:15:17.500000000 Z
+    title: Amarillo
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/4WsJDTyR4bTeU6KYuIMVuc/25b036fe4139abbeaf89141b6059364d/Autorretrato3.jpg"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/VZyYKOpoAOdQwcLdJZTvt/1bce4eccf632933cf4c81ee6458eb0cc/Amarillo.jpg"
+  description: This work is my interpretation of the color yellow, using different
+    pictures of nature and objects. I experimented with a diversity of shades of the
+    same color to transmit the variety of tonal values it can have. With this composition
+    I want to transmit the calmness and positivity that this color produces in me,
+    because of its bright features.
+- sys:
+    id: 2TQzMYDmjynmcxSXMwwc1K
+    created_at: !ruby/object:DateTime 2020-04-26 17:09:41.550000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 22:02:39.029000000 Z
+    content_type_id: workPosts
+    revision: 2
+  title: Waves
+  medium: Acrylic on mirror
+  year: 2020
+  size: 33 x 41 x 1 cm
+  images:
   - sys:
-      id: 7KDaEWKxf3jOUbxy3XXRId
-      created_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:51:08.688000000 Z
+      id: 77xfSTiElXRWYrazMwalLy
+      created_at: !ruby/object:DateTime 2020-04-26 17:09:26.879000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 17:09:26.880000000 Z
+    title: IMG 1347
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/77xfSTiElXRWYrazMwalLy/6b6ac0bbd95bca8e10bfd230c4dc4c7c/IMG_1347.JPG"
+  - sys:
+      id: 7q9ReH3ygtaqQd6Lj7jUWb
+      created_at: !ruby/object:DateTime 2020-04-26 17:09:36.649000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 17:09:36.649000000 Z
+    title: MG 1315
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7q9ReH3ygtaqQd6Lj7jUWb/fb13c1b769ac929e474ca3818a7fd2ae/_MG_1315.JPG"
+  description: This work is an intervention of a mirror with an abstract design, influenced
+    by Andrew Masullo and his work with color, which represents my thoughts. Color
+    and organic shapes are used to demonstrate the diversity of ideas and their constant
+    movement through my mind. In the same way, it seeks to transmit the process of
+    the individual’s reflection as an internal exploration, and as an escape from
+    the outside.
+- sys:
+    id: ej4kRelBPrsmNm35L5Iz0
+    created_at: !ruby/object:DateTime 2020-04-26 21:42:52.518000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 21:42:52.518000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Easel
+  medium: Collage on paper
+  year: 2018
+  size: 29.3 x 20.5 cm
+  images:
+  - sys:
+      id: 4vegEWmNcdUOn2zuJJSYpD
+      created_at: !ruby/object:DateTime 2020-04-26 21:40:41.855000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:40:41.855000000 Z
+    title: Caballete
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4vegEWmNcdUOn2zuJJSYpD/36a10cab6ed4db382af47859a114dfb3/Caballete.jpg"
+  description: This composition represents how an easel can be used to portray the
+    diversity of emotions and thoughts that a person has. Collage is used to relate
+    faces to the parts of a canvas, demonstrating how art is part of our identity.
+- sys:
+    id: 6r2Fq5s37d4HKPtq56qK6a
+    created_at: !ruby/object:DateTime 2020-04-26 21:12:38.035000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 21:12:38.035000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Consumption
+  medium: Collage on compressed anime sheets
+  year: 2020
+  size: 24.5 x 24.5 cm each
+  images:
+  - sys:
+      id: 62x14CXUxJiLQgmwl9BLkq
+      created_at: !ruby/object:DateTime 2020-04-26 21:09:39.489000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:09:39.489000000 Z
+    title: CONSUMO
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/62x14CXUxJiLQgmwl9BLkq/18acabeb96131a5bbd4d4c2f35c2e5a2/CONSUMO.jpg"
+  - sys:
+      id: ivElntYvnmGqkwQsFPEfI
+      created_at: !ruby/object:DateTime 2020-04-26 21:10:51.808000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:10:51.808000000 Z
+    title: '1'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/ivElntYvnmGqkwQsFPEfI/0ab0827741568753ac2b78c3a9a78bb1/1.png"
+  - sys:
+      id: 3YlZW7wWCeFNAHPBsx6eRl
+      created_at: !ruby/object:DateTime 2020-04-26 21:11:54.664000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:11:54.664000000 Z
+    title: '2'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3YlZW7wWCeFNAHPBsx6eRl/c5af3fd752809969e4552de8776b992c/2.png"
+  - sys:
+      id: 5aliDJKzuqS5R883A8Qofx
+      created_at: !ruby/object:DateTime 2020-04-26 21:12:30.473000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:12:30.473000000 Z
+    title: '3'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5aliDJKzuqS5R883A8Qofx/963109817d4266ea634252905d0111f7/3.png"
+  description: This series presents a critical function against the addiction that
+    social media can generate in a person. Food and tech images combine to demonstrate
+    how digital media has become a human need. One of the most relevant influences
+    that this work has is Joe Webb, a collage artist who seeks to convey through his
+    works the rupture that technology has produced in the natural world and our environment.
+- sys:
+    id: 6MzgZqQ19RMUfMrG35YH4i
+    created_at: !ruby/object:DateTime 2020-04-26 21:01:23.869000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 21:01:23.870000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Gluttony
+  medium: Series of three vinyl records painted with spray paint and acrylic, with
+    compressed anime on top cutted in the shape of a ring painted with markers.
+  year: 2020
+  size: 30.5 x 30.5 cm each
+  images:
+  - sys:
+      id: 6pnVU8D1aFUelWnNuJRn1y
+      created_at: !ruby/object:DateTime 2020-04-26 20:56:46.217000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:56:46.217000000 Z
+    title: OBRA8
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/6pnVU8D1aFUelWnNuJRn1y/6bd60cf8e05aa08214f29b5203a167af/OBRA8.JPG"
+  - sys:
+      id: 3JIfMNevTFTnAp3uXE694v
+      created_at: !ruby/object:DateTime 2020-04-26 20:59:00.349000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:59:00.349000000 Z
+    title: '1'
+    description: Brownies
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3JIfMNevTFTnAp3uXE694v/1bebecebd47cbfc36191d85f10788b1a/1.png"
+  - sys:
+      id: 7hMsYNdWxV531uS17X5wWZ
+      created_at: !ruby/object:DateTime 2020-04-26 20:59:45.864000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:59:45.864000000 Z
+    title: '2'
+    description: Avocado Toast
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7hMsYNdWxV531uS17X5wWZ/4bead2626772f3a665838fa8edf00787/2.png"
+  - sys:
+      id: 2zg5EpV5kzphWTdcYR6RwH
+      created_at: !ruby/object:DateTime 2020-04-26 21:00:26.494000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 21:00:26.494000000 Z
+    title: '3'
+    description: Banana Pancakes
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2zg5EpV5kzphWTdcYR6RwH/9a2f76c50a371c3a1f73ff414693a211/3.png"
+  description: With these materials I created plates with various patterns on the
+    edges and paintings in the center, to imitate a food plate. This series was influenced
+    by abstract artists like Kenneth Noland, who is characterized by the use of circular
+    shapes and stripes. I used colors to demonstrate how each food makes me feel,
+    and in the same way, how I enjoy cooking in my free time.
+- sys:
+    id: gnm79gyr0A8toMm6CIQtf
+    created_at: !ruby/object:DateTime 2020-04-26 20:53:27.715000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 20:53:27.715000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: View
+  medium: Acrylic on Television
+  year: 2019
+  size: 60 x 44.4 x 52 cm
+  images:
+  - sys:
+      id: 7lcADemZ3VbDJjFzWNLEYy
+      created_at: !ruby/object:DateTime 2020-04-26 20:48:35.943000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:48:35.943000000 Z
+    title: '1'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7lcADemZ3VbDJjFzWNLEYy/13cc74217b2767a4ee3b9a475d132837/1.png"
+  - sys:
+      id: 1s0GsEPIiaBM3pkquv8SlB
+      created_at: !ruby/object:DateTime 2020-04-26 20:49:18.974000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:49:18.974000000 Z
+    title: '2'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1s0GsEPIiaBM3pkquv8SlB/10a40d770816a78c6a274503d17708ac/2.png"
+  - sys:
+      id: 7vIZ7xF4YACJiS1arb65t6
+      created_at: !ruby/object:DateTime 2020-04-26 20:52:32.320000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:52:32.320000000 Z
+    title: OBRA7.1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7vIZ7xF4YACJiS1arb65t6/9dd41181985c57727c19bd7d00e2c48f/OBRA7.1.jpg"
+  description: This work was influenced by the surrealist movement to represent the
+    effect of digital media on society. It is characterized by the exaggeration of
+    lines to demonstrate the excessive time that an individual spends in front of
+    a screen. It seeks to criticize how technology is capable of controlling the subject,
+    since it can generate an addiction.
+- sys:
+    id: RijknHfOk73D7SDGkhE1P
+    created_at: !ruby/object:DateTime 2020-04-26 20:46:17.935000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 20:46:17.935000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Faces
+  medium: Collage on paper
+  year: 2019
+  size: 'The first three works: 27 x 32 cm, and the fourth work: 28 x 34.4 cm'
+  images:
+  - sys:
+      id: 1uVJPky6ZLiUu7SYJOCZs5
+      created_at: !ruby/object:DateTime 2020-04-26 20:45:03.009000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:45:03.009000000 Z
+    title: facetas
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1uVJPky6ZLiUu7SYJOCZs5/5ba228f661fd204e31d5d8b8c7e041d6/facetas.jpg"
+  - sys:
+      id: 4yqnQLw2YlMGM9THTUemKx
+      created_at: !ruby/object:DateTime 2020-04-26 20:39:21.839000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:39:21.839000000 Z
     title: Autorretrato1
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/7KDaEWKxf3jOUbxy3XXRId/7cfb204463d5ab2982e08e3e1bda7d6f/Autorretrato1.jpg"
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4yqnQLw2YlMGM9THTUemKx/9094cba68b258b29716db8215c876f28/Autorretrato1.jpg"
   - sys:
-      id: 5DsD5xfyaquVdgqMU7IvAw
-      created_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:51:31.686000000 Z
-    title: Autorretrato4
-    description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/5DsD5xfyaquVdgqMU7IvAw/97f0e144e037b7b3e108572b59562d2a/Autorretrato4.JPEG"
-  - sys:
-      id: 24dDNMaPKEL7XpHyX4NZeY
-      created_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-10 13:50:40.145000000 Z
+      id: 5q1IaVyQzimJu5ipTVrzLL
+      created_at: !ruby/object:DateTime 2020-04-26 20:39:57.916000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:39:57.916000000 Z
     title: Autorretrato2
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/24dDNMaPKEL7XpHyX4NZeY/14d9112daafff2892ed2f3df16a5c594/Autorretrato2.jpg"
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type
-    specimen book. It has survived not only five centuries, but also the leap into
-    electronic typesetting, remaining essentially unchanged. It was popularised in
-    the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-    and more recently with desktop publishing software like Aldus PageMaker including
-    versions of Lorem Ipsum.
-blogPosts:
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/5q1IaVyQzimJu5ipTVrzLL/40a97affda11107c856582e348b2cda8/Autorretrato2.jpg"
+  - sys:
+      id: 3I7Zs8tODHH9UhujPoBrPQ
+      created_at: !ruby/object:DateTime 2020-04-26 20:40:38.497000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:40:38.497000000 Z
+    title: Autorretrato3
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3I7Zs8tODHH9UhujPoBrPQ/3b780b11667b2d72dbc16859739d3e81/Autorretrato3.JPEG"
+  - sys:
+      id: 4VJGxGpdOdHZvwu9yoNbj2
+      created_at: !ruby/object:DateTime 2020-04-26 20:41:37.306000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:41:37.306000000 Z
+    title: '4'
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4VJGxGpdOdHZvwu9yoNbj2/d7401a335f86e4e96d68c1ffbd367ff4/4.jpg"
+  - sys:
+      id: 1YdLLlGUW3Qgb0TEgF9vVu
+      created_at: !ruby/object:DateTime 2020-04-26 20:44:19.869000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:44:19.869000000 Z
+    title: Autorretrato4.1
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1YdLLlGUW3Qgb0TEgF9vVu/e53fe043a3bb04471bf2d78fcd95d7b2/Autorretrato4.1.jpg"
+  description: This series of self-portraits demonstrate my identity from other people's
+    perspectives, and my personal identity derived from my thoughts and ideas. These
+    were made with collage to elaborate a construction of my face in the first three
+    works, and then to combine the images that represent the functioning of my mind.
+    It demonstrates the different faces of my identity.
 - sys:
-    id: 75TNWr77RyYDgk3aZL63dp
-    created_at: !ruby/object:DateTime 2020-04-17 20:28:58.745000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-19 00:52:53.382000000 Z
-    content_type_id: blogPosts
-    revision: 3
-  title: Duplicate Leisure Time
-  blog_date: '17/04/2019 '
-  blog_author: Clarisa Peña
+    id: 1rMoKMhoIC9JBF9rNrzZSm
+    created_at: !ruby/object:DateTime 2020-04-26 20:25:37.541000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 20:25:37.541000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Ávila
+  medium: Photography
+  year: 2015
+  size: 1,133 x 850 px and 711 x 533 px
   images:
   - sys:
-      id: 1XUXaEHUqn0wXbP232YEGP
-      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-    title: Art-Fair-1
+      id: 2irEOmtzHIi58PH0c8XFdX
+      created_at: !ruby/object:DateTime 2020-04-26 20:23:07.557000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:23:07.557000000 Z
+    title: DSC05279
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
-  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
-    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
-    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
-    ultrices gravida dictum.
-  description: |-
-    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
-
-    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2irEOmtzHIi58PH0c8XFdX/ef0792fe89f93f14fdcd82ebd1910702/DSC05279.jpg"
+  - sys:
+      id: QAEeEtl9ZGbFGhQPMY3MZ
+      created_at: !ruby/object:DateTime 2020-04-26 20:23:30.507000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:23:30.507000000 Z
+    title: IMG 8762
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/QAEeEtl9ZGbFGhQPMY3MZ/0a23bcfefe6bb9f903620c2c42bb753b/IMG_8762.JPG"
+  description: These pictures were taken in the Ávila mountain in Caracas, Venezuela,
+    during a photography course I took. These represent the flow and movement that
+    exists within nature.
 - sys:
-    id: 6r4xHvbPc7fuRogtk51R4J
-    created_at: !ruby/object:DateTime 2020-04-17 18:41:59.841000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-19 00:52:33.199000000 Z
-    content_type_id: blogPosts
-    revision: 4
-  title: Leisure Time
-  blog_date: '17/04/2019 '
-  blog_author: Clarisa Peña
+    id: KcWH2rbBK2NRFG0GbemjZ
+    created_at: !ruby/object:DateTime 2020-04-26 20:20:55.591000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 20:20:55.591000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Perspective
+  medium: Graphite on paper
+  year: 2018
+  size: 34.5 x 28.2 cm
   images:
   - sys:
-      id: 1XUXaEHUqn0wXbP232YEGP
-      created_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-17 18:40:22.012000000 Z
-    title: Art-Fair-1
+      id: 1KI7GGzPwIQe3Np9NogRDD
+      created_at: !ruby/object:DateTime 2020-04-26 20:19:35.013000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:19:35.013000000 Z
+    title: 2019-11-22 13-03 1 page 16
     description: 
-    url: "//images.ctfassets.net/w0gzgn8pc4mk/1XUXaEHUqn0wXbP232YEGP/81fc4b7f5ce4f0fe42751d2b435cbc00/Art-Fair-1.jpeg"
-  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper
-    eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque
-    pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse
-    ultrices gravida dictum.
-  description: |-
-    __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel fringilla est ullamcorper eget nulla facilisi. Amet est placerat in egestas erat imperdiet sed. Pellentesque pulvinar pellentesque habitant morbi. Nullam eget felis eget nunc. Ipsum suspendisse ultrices gravida dictum. Habitasse platea dictumst quisque sagittis purus sit amet. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Volutpat diam ut venenatis tellus in metus. Auctor eu augue ut lectus arcu. Mattis rhoncus urna neque viverra justo nec ultrices.
-
-    Id aliquet risus feugiat in ante metus dictum. Pellentesque id nibh tortor id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Auctor elit sed vulputate mi sit amet. Et netus et malesuada fames ac turpis. Elementum integer enim neque volutpat ac tincidunt. Aliquet sagittis id consectetur purus ut faucibus. Id diam maecenas ultricies mi. Nec feugiat nisl pretium fusce. Elit duis tristique sollicitudin nibh sit. In hac habitasse platea dictumst quisque sagittis purus sit. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Sit amet nulla facilisi morbi tempus iaculis urna. Quis enim lobortis scelerisque fermentum dui. Pretium viverra suspendisse potenti nullam ac tortor vitae.
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1KI7GGzPwIQe3Np9NogRDD/0df3968f7fde712ec1b926871a071e34/2019-11-22_13-03_1_page_16.JPEG"
+  - sys:
+      id: 4uH63E0MgsPLpuHZqbIdkw
+      created_at: !ruby/object:DateTime 2020-04-26 20:20:07.075000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:20:07.075000000 Z
+    title: 2019-11-22 13-03 1 page 13
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4uH63E0MgsPLpuHZqbIdkw/4dba89344b8f1a20d1857d1ceb95fa3d/2019-11-22_13-03_1_page_13.jpg"
+  description: This is a study I did on perspective, to represent three dimensional
+    objects such as cubes in a way that looks realistic. I studied the lighting in
+    the composition, to use different shades to demonstrate the dimensions of the
+    object.
+- sys:
+    id: 5kcU0RPxgcbSpRY6Kda6NI
+    created_at: !ruby/object:DateTime 2020-04-26 20:01:41.341000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 20:01:41.341000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Outside
+  medium: Collage on paper
+  year: 2019
+  size: 22 x 16.1 cm
+  images:
+  - sys:
+      id: 2QOiM0N1tDZMo8uwZMytq3
+      created_at: !ruby/object:DateTime 2020-04-26 20:01:36.449000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 20:01:36.450000000 Z
+    title: Afuera
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/2QOiM0N1tDZMo8uwZMytq3/c973a136aa1534cc17eaaeae8269cc5e/Afuera.jpg"
+  description: In this work I wanted to represent the Venezuelan emigration to other
+    parts of the world and how it affects the country. I used this technique to present
+    the Ávila (characteristic Caracas’s mountain) with cutouts of black cardboard
+    and show how the country is in the dark for all the losses. Furthermore, collage
+    became an essential tool to be able to mix diverse images of people and activities
+    outside the Ávila, separated by a line.
+- sys:
+    id: 1l7VOlE8XVNDI8tUGo83i3
+    created_at: !ruby/object:DateTime 2020-04-26 19:50:44.696000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 19:50:44.696000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Watercolor Initial
+  medium: Watercolor on paper
+  year: 2019
+  size: 21.7 x 28.1 cm
+  images:
+  - sys:
+      id: 3RzpVywUqlDLhZU3NxhxJF
+      created_at: !ruby/object:DateTime 2020-04-26 19:49:29.866000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:49:29.866000000 Z
+    title: c
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/3RzpVywUqlDLhZU3NxhxJF/72fc6886b1fed1d7f8a85d487aab45c4/C.jpeg"
+  description: This work was done during a watercolor class I had. It relates nature
+    with your own name and identity. I worked with different shades of green to experiment
+    with this technique. Also I observed the different plants around me to include
+    them in the composition.
+- sys:
+    id: 4HOQLiIE3ZuaKY6Cng09Jc
+    created_at: !ruby/object:DateTime 2020-04-26 19:34:12.547000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 19:34:12.547000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Zentangle
+  medium: Marker on paper
+  year: 2019
+  size: 28 x 21.8 cm
+  images:
+  - sys:
+      id: 4B6Uie9FtTy40F116TSEzL
+      created_at: !ruby/object:DateTime 2020-04-26 19:33:21.025000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:33:21.025000000 Z
+    title: Zentangle5
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4B6Uie9FtTy40F116TSEzL/db4cfada799facfd48211dfa305890c4/Zentangle5.jpg"
+  description: During summer 19’ I experimented with the 'Zentangle' method that relates
+    meditation to art and doodling. I took some classes on the subject and drew different
+    patterns. This composition is the combination of the patterns I learned. This
+    exploration made me feel more centered and concentrated during my time drawing,
+    connecting with the process that was happening in me and in paper.
+- sys:
+    id: 4pgYHT9VxadyYa27EcfSHa
+    created_at: !ruby/object:DateTime 2020-04-26 19:27:51.144000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 19:27:51.144000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Flow
+  medium: Various techniques in sketchbook
+  year: 2020
+  size: 12 x 12.5 x 2.5 cm
+  images:
+  - sys:
+      id: 7nWi1U4Sguj6E6Ptfr0gfA
+      created_at: !ruby/object:DateTime 2020-04-26 19:20:49.472000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:20:49.472000000 Z
+    title: IMG 6839
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7nWi1U4Sguj6E6Ptfr0gfA/5cc4d3c81b3ab12f1e87a17ab055b976/IMG_6839.jpg"
+  - sys:
+      id: jEE1BZuLmT7n1AzTYeFK1
+      created_at: !ruby/object:DateTime 2020-04-26 19:22:08.745000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:22:08.745000000 Z
+    title: IMG 2037
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/jEE1BZuLmT7n1AzTYeFK1/6f959430340e83673ff952185f81da9e/IMG_2037.jpg"
+  - sys:
+      id: q8t4pWxdWqCihMPFuQZER
+      created_at: !ruby/object:DateTime 2020-04-26 19:24:53.530000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:24:53.530000000 Z
+    title: IMG 6830
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/q8t4pWxdWqCihMPFuQZER/3c47362fa130e98987270c5af76c87ad/IMG_6830.jpg"
+  - sys:
+      id: 4FclSZKtFLdINX5cpF66lL
+      created_at: !ruby/object:DateTime 2020-04-26 19:26:19.370000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:26:19.370000000 Z
+    title: IMG 6832
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/4FclSZKtFLdINX5cpF66lL/42f0cc7cc3b14c2e82788c36c7387885/IMG_6832.jpg"
+  - sys:
+      id: 7gombkQhoe0BNymK53Vde7
+      created_at: !ruby/object:DateTime 2020-04-26 19:27:08.507000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 19:27:08.507000000 Z
+    title: IMG 6836
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/7gombkQhoe0BNymK53Vde7/ba3ecfb76e1b5d4c224843accfb2ed1d/IMG_6836.jpg"
+  description: This series demonstrates my process and evolution as an artist over
+    a period of time. I was influenced by the way in which the artist Evan Kitson
+    uses his notebook to learn and study his own compositions. The sketchbook works
+    as a medium that allows me to explore various techniques to define my own style.
+    This work conveys the way in which art becomes a method to understand my imagination
+    and avoid my problems or the outside world.
+- sys:
+    id: 20nFLsWOeFSNy0ZrKIxsip
+    created_at: !ruby/object:DateTime 2020-04-26 18:29:37.723000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-26 18:29:37.723000000 Z
+    content_type_id: workPosts
+    revision: 1
+  title: Aurora
+  medium: Marker on paper
+  year: 2017
+  size: 23.3 x 7 cm
+  images:
+  - sys:
+      id: 1mKTAE80SZYcfLXiY58ZgS
+      created_at: !ruby/object:DateTime 2020-04-26 18:27:46.751000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-26 18:27:46.751000000 Z
+    title: Grafico
+    description: 
+    url: "//images.ctfassets.net/w0gzgn8pc4mk/1mKTAE80SZYcfLXiY58ZgS/a2102a91b272d95f6a7f01be18815d71/Grafico.jpg"
+  description: 'With this graphic I wanted to represent the Aurora lights that occur
+    in the night sky of polar zones in the planet. I used two colors, purple and green,
+    as an interpretation of these lights, while the mountain was made in black and
+    white. '

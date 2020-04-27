@@ -14,7 +14,7 @@ layout: default
     <div class="about-description-image d-flex w-100">
       {% for item in site.data.contentful.spaces.clachicha.aboutPage %}
         <div class="pages-description col-6">
-          <p>{{ item.description }}</p>
+          <p>{{ item.about_description | rich_text }}</p>
         </div>
         <div class="about-image-container col-6">
           <image class="about-image" src="{{ item.image.url }}?q=20"
