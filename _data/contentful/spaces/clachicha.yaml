@@ -15,14 +15,14 @@ blogPosts:
       created_at: !ruby/object:DateTime 2020-04-26 22:58:06.847000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 22:58:06.847000000 Z
     title: EXPO1
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/2yovUF0HRs0BzO6VwRFeg7/6e9498c726f316e7faabacc412247d43/EXPO1.JPG"
   - sys:
       id: 3E7MLPGRYGcx1mKKMzThPw
       created_at: !ruby/object:DateTime 2020-04-26 23:03:22.303000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 23:03:22.303000000 Z
     title: EXPO2
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3E7MLPGRYGcx1mKKMzThPw/ea50872c6538235a30a200728b6da0da/EXPO2.JPG"
   summary: This post explains the IB Visual Arts Exhibition's process and challenges.
     It was a long and difficult journey that made me discover a lot about myself and
@@ -105,7 +105,7 @@ aboutPage:
       created_at: !ruby/object:DateTime 2020-04-19 23:25:06.695000000 Z
       updated_at: !ruby/object:DateTime 2020-04-19 23:25:06.695000000 Z
     title: about-me
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/5AxUInzczjgbEsmwwLSVIB/02345f9b08ab06de4e927e7b61fead34/about-me.JPG"
   about_description:
     nodeType: document
@@ -161,7 +161,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:35:45.750000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:35:45.750000000 Z
     title: IMG 7800
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/6ByqKT4egjtjuLJu590hA8/0fff53f5ccb4486e11c4d79b23f9b838/IMG_7800.jpg"
   description: 'This painting was based in a drawing I made on my sketchbook. It represents
     an imagined landscape. I used an exaggerated ammount of lines to demonstrate the
@@ -188,7 +188,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 18:50:23.744000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:50:23.744000000 Z
     title: OBRA3
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/788D2EfMrC6Q8xrHNLck4I/5c020801c2f459699c2a5d26f0cbdbaa/OBRA3.JPG"
   - sys:
       id: 3qSxnVnRxNj7pYCKRjKgi3
@@ -261,7 +261,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 22:45:28.532000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 22:45:28.532000000 Z
     title: Foto Clarisa
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/6mOdIA8iGx5FLX2Zp1Ire8/29027b456de67091f665f57b5111bc0a/Foto_Clarisa.jpg"
   description: Through photography and objects like clothing, I represented how I
     feel in front of other people. I organized the objects so that only the yellow
@@ -419,7 +419,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:37:29.928000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:37:29.928000000 Z
     title: ExperienciaEstetica
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/6uP1CPYJ2S7Z8zXE4zg5Gh/22a3250a9dda6878c9f83b565a0c110d/ExperienciaEstetica.jpg"
   description: With this work I wanted to represent how I feel while I touch my dog.
     I used different images of soft textures to imitate his hair, and on top, pasted
@@ -440,7 +440,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:26:38.621000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:26:38.621000000 Z
     title: Tacto
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4Wfp6WUPumzoGz03zyFZsf/4e002f3ce4fb5d688486091a504b753d/Tacto.JPEG"
   description: 'This work is a collage between pictures and drawings to represent
     the importance of our hands. Human hands are different from animals'' because
@@ -462,7 +462,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:21:12.334000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:21:12.334000000 Z
     title: Autorretrato Posterized
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1OZMI8l6keIbGYLIpOE7j1/e2a5212c307f6510e88bba1c006e2cb6/Autorretrato_Posterized.jpg"
   description: This self-portrait is based on a posterized picture of myself. Different
     shades of purple and blue are used to represent the lighting in the hair and face.
@@ -484,28 +484,28 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:16:41.415000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:16:41.415000000 Z
     title: '1'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/5JtX6mItugVjbSqIQ5a1IR/4e7b6f6d9a78eb430ee79fe5145bdc08/1.png"
   - sys:
       id: 4JvvcO8HU6hRvMqUzhpp1x
       created_at: !ruby/object:DateTime 2020-04-26 21:17:19.853000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:17:19.853000000 Z
     title: '2'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4JvvcO8HU6hRvMqUzhpp1x/3709f9ed7d759e7d51823364a15bfdd4/2.png"
   - sys:
       id: 49O8HddDXbRXVRcxVs8Glu
       created_at: !ruby/object:DateTime 2020-04-26 21:18:01.971000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:18:01.971000000 Z
     title: '3'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/49O8HddDXbRXVRcxVs8Glu/a50b25f36c7ca2124fe535794543292c/3.png"
   - sys:
       id: 6LCnIXKewP56p7vk2V5kYY
       created_at: !ruby/object:DateTime 2020-04-26 21:18:40.895000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:18:40.895000000 Z
     title: '4'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/6LCnIXKewP56p7vk2V5kYY/ab87f11971eee1364e610559ddfa75de/4.png"
   description: This series is based on the concept of sleeping. Throughout the three
     works, the use of color evolves to show how this action is a form of exploration
@@ -527,35 +527,35 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:27:26.397000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:27:26.397000000 Z
     title: MG 0815
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7FiE1ND1Ijp0lcwtZhKfLW/5e281b3d152b715b84b29546d27c69b6/_MG_0815.JPG"
   - sys:
       id: 1ya4sEFzEzRvu3JhHV6Zvy
       created_at: !ruby/object:DateTime 2020-04-26 20:28:09.512000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:28:09.512000000 Z
     title: MG 0942
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1ya4sEFzEzRvu3JhHV6Zvy/3ef1fa781ec09a753740a1df11dcf340/_MG_0942.JPG"
   - sys:
       id: 18zbA7MXMDUlf5jpO7qDOn
       created_at: !ruby/object:DateTime 2020-04-26 20:28:37.563000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:28:37.563000000 Z
     title: MG 0957
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/18zbA7MXMDUlf5jpO7qDOn/174980e04a773b1dee4186d519258f7d/_MG_0957.JPG"
   - sys:
       id: 1GyKL6RIkYj26GwmOHIZZc
       created_at: !ruby/object:DateTime 2020-04-26 20:29:03.741000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:29:03.741000000 Z
     title: MG 0962
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1GyKL6RIkYj26GwmOHIZZc/ea7206bf8a5be7cf7fc0b8b90ab44304/_MG_0962.JPG"
   - sys:
       id: 4l3iw84aNPhXJJDP0nyfkD
       created_at: !ruby/object:DateTime 2020-04-26 20:29:27.023000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:29:27.023000000 Z
     title: IMG 1006
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4l3iw84aNPhXJJDP0nyfkD/8c49108d6653a1c23937ea94698f7fd2/IMG_1006.JPG"
   description: During my trip to Spain in summer 19’ I took a lot of pictures. These
     six photos taken in Mallorca and Madrid demonstrate how humans and nature bond.
@@ -577,28 +577,28 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:08:35.973000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:08:35.973000000 Z
     title: abundancia
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1DFLVggPXvNCuahYfdVYPh/a9ffebd0b0ed4753f1cdb419227afc56/abundancia.jpg"
   - sys:
       id: 7qbDrN46gKdrbODbWlQuh
       created_at: !ruby/object:DateTime 2020-04-26 20:09:29.781000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:09:29.781000000 Z
     title: abun1
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7qbDrN46gKdrbODbWlQuh/8d277503caa20d6f4f3d9cc19b88edac/abun1.jpg"
   - sys:
       id: 70w4vhOxB7LTl9BCTXuNnx
       created_at: !ruby/object:DateTime 2020-04-26 20:10:50.666000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:10:50.666000000 Z
     title: abun2
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/70w4vhOxB7LTl9BCTXuNnx/087371575cc5abe797fd3f7450d66c89/abun2.jpg"
   - sys:
       id: 1H6deIVsb191sMklQgRsbq
       created_at: !ruby/object:DateTime 2020-04-26 20:12:46.719000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:12:46.719000000 Z
     title: abun3
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1H6deIVsb191sMklQgRsbq/e2896b93d24c03b61a7f064456e24f19/abun3.jpg"
   description: This work is my interpretation of a party. It seeks to transmit the
     various nightlife stories. With the mix of the character's proportions and the
@@ -621,42 +621,42 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 18:19:55.183000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:19:55.183000000 Z
     title: OBRA2
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3Higa4d2akvAScQsjjXKbV/49ebdedeb05c13216a12f541cb3303fd/OBRA2.JPG"
   - sys:
       id: 1zZmk8K3Asl1XaIDwsrMLA
       created_at: !ruby/object:DateTime 2020-04-26 18:20:44.130000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:20:44.130000000 Z
     title: '1'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1zZmk8K3Asl1XaIDwsrMLA/e1a95fb119e53dc98997d6eafa871e86/1.png"
   - sys:
       id: 1gb0C0Ql8MY7sL6J2XYUAr
       created_at: !ruby/object:DateTime 2020-04-26 18:21:40.077000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:21:40.077000000 Z
     title: '2'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1gb0C0Ql8MY7sL6J2XYUAr/2803f4e30780da6c8a0e0c16480dcc99/2.png"
   - sys:
       id: 35hpBH1IEa4G1BD95nk0mQ
       created_at: !ruby/object:DateTime 2020-04-26 18:23:04.051000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:23:04.051000000 Z
     title: '3'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/35hpBH1IEa4G1BD95nk0mQ/0956235a2111dd0518431851a3f2c910/3.png"
   - sys:
       id: 4h3mUGVsvIPoGNhUfBVeG4
       created_at: !ruby/object:DateTime 2020-04-26 18:24:01.680000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:24:01.680000000 Z
     title: '4'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4h3mUGVsvIPoGNhUfBVeG4/f6657d94d78a04d667dda633c253dc81/4.png"
   - sys:
       id: 65wXUoUNEPz1rYBNxAVBD9
       created_at: !ruby/object:DateTime 2020-04-26 18:24:53.055000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:24:53.055000000 Z
     title: '5'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/65wXUoUNEPz1rYBNxAVBD9/d01480690d5b64d2a9f1b5654b1b1916/5.png"
   description: This series is an intervention of records with spray paint, based on
     the influence that graffiti has on me. The color scheme is used to demonstrate
@@ -679,7 +679,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-18 18:53:56.089000000 Z
       updated_at: !ruby/object:DateTime 2020-04-18 18:53:56.089000000 Z
     title: Nubes acuarela
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3fotuDRMyE4af3mrjizY92/b19844845e9ac309630186d9e622a820/Nubes_acuarela.jpg"
   description: This is my first composition using watercolor. I wanted to represent
     a sky, with pink clouds and a dark background. I used pink and black to create
@@ -701,7 +701,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 18:09:29.095000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:09:29.095000000 Z
     title: IMG 2024
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/2TZiRc8RFKLskY7vpi52KZ/6601b115a173a47ff0e5c32bbefb0e78/IMG_2024.jpg"
   description: Since my parents don’t let me paint my wall, I cover it with painted
     paper. This mural is the latest I have done, an octopus that appears to be coming
@@ -724,7 +724,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 18:05:38.063000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:05:38.063000000 Z
     title: Balance
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3aMzkTOiEfvTrqBogkuWaS/07fffafebd1f366cd2da4db487652ffb/Balance.jpg"
   description: This is my abstract interpretation of feeling fortunate. I used the
     line to create different sized circles that connect in some way, because for me
@@ -747,7 +747,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 17:15:17.500000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 17:15:17.500000000 Z
     title: Amarillo
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/VZyYKOpoAOdQwcLdJZTvt/1bce4eccf632933cf4c81ee6458eb0cc/Amarillo.jpg"
   description: This work is my interpretation of the color yellow, using different
     pictures of nature and objects. I experimented with a diversity of shades of the
@@ -770,14 +770,14 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 17:09:26.879000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 17:09:26.880000000 Z
     title: IMG 1347
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/77xfSTiElXRWYrazMwalLy/6b6ac0bbd95bca8e10bfd230c4dc4c7c/IMG_1347.JPG"
   - sys:
       id: 7q9ReH3ygtaqQd6Lj7jUWb
       created_at: !ruby/object:DateTime 2020-04-26 17:09:36.649000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 17:09:36.649000000 Z
     title: MG 1315
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7q9ReH3ygtaqQd6Lj7jUWb/fb13c1b769ac929e474ca3818a7fd2ae/_MG_1315.JPG"
   description: This work is an intervention of a mirror with an abstract design, influenced
     by Andrew Masullo and his work with color, which represents my thoughts. Color
@@ -801,7 +801,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:40:41.855000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:40:41.855000000 Z
     title: Caballete
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4vegEWmNcdUOn2zuJJSYpD/36a10cab6ed4db382af47859a114dfb3/Caballete.jpg"
   description: This composition represents how an easel can be used to portray the
     diversity of emotions and thoughts that a person has. Collage is used to relate
@@ -822,28 +822,28 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 21:09:39.489000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:09:39.489000000 Z
     title: CONSUMO
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/62x14CXUxJiLQgmwl9BLkq/18acabeb96131a5bbd4d4c2f35c2e5a2/CONSUMO.jpg"
   - sys:
       id: ivElntYvnmGqkwQsFPEfI
       created_at: !ruby/object:DateTime 2020-04-26 21:10:51.808000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:10:51.808000000 Z
     title: '1'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/ivElntYvnmGqkwQsFPEfI/0ab0827741568753ac2b78c3a9a78bb1/1.png"
   - sys:
       id: 3YlZW7wWCeFNAHPBsx6eRl
       created_at: !ruby/object:DateTime 2020-04-26 21:11:54.664000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:11:54.664000000 Z
     title: '2'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3YlZW7wWCeFNAHPBsx6eRl/c5af3fd752809969e4552de8776b992c/2.png"
   - sys:
       id: 5aliDJKzuqS5R883A8Qofx
       created_at: !ruby/object:DateTime 2020-04-26 21:12:30.473000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 21:12:30.473000000 Z
     title: '3'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/5aliDJKzuqS5R883A8Qofx/963109817d4266ea634252905d0111f7/3.png"
   description: This series presents a critical function against the addiction that
     social media can generate in a person. Food and tech images combine to demonstrate
@@ -867,7 +867,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:56:46.217000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:56:46.217000000 Z
     title: OBRA8
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/6pnVU8D1aFUelWnNuJRn1y/6bd60cf8e05aa08214f29b5203a167af/OBRA8.JPG"
   - sys:
       id: 3JIfMNevTFTnAp3uXE694v
@@ -911,21 +911,21 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:48:35.943000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:48:35.943000000 Z
     title: '1'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7lcADemZ3VbDJjFzWNLEYy/13cc74217b2767a4ee3b9a475d132837/1.png"
   - sys:
       id: 1s0GsEPIiaBM3pkquv8SlB
       created_at: !ruby/object:DateTime 2020-04-26 20:49:18.974000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:49:18.974000000 Z
     title: '2'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1s0GsEPIiaBM3pkquv8SlB/10a40d770816a78c6a274503d17708ac/2.png"
   - sys:
       id: 7vIZ7xF4YACJiS1arb65t6
       created_at: !ruby/object:DateTime 2020-04-26 20:52:32.320000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:52:32.320000000 Z
     title: OBRA7.1
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7vIZ7xF4YACJiS1arb65t6/9dd41181985c57727c19bd7d00e2c48f/OBRA7.1.jpg"
   description: This work was influenced by the surrealist movement to represent the
     effect of digital media on society. It is characterized by the exaggeration of
@@ -948,42 +948,42 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:45:03.009000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:45:03.009000000 Z
     title: facetas
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1uVJPky6ZLiUu7SYJOCZs5/5ba228f661fd204e31d5d8b8c7e041d6/facetas.jpg"
   - sys:
       id: 4yqnQLw2YlMGM9THTUemKx
       created_at: !ruby/object:DateTime 2020-04-26 20:39:21.839000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:39:21.839000000 Z
     title: Autorretrato1
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4yqnQLw2YlMGM9THTUemKx/9094cba68b258b29716db8215c876f28/Autorretrato1.jpg"
   - sys:
       id: 5q1IaVyQzimJu5ipTVrzLL
       created_at: !ruby/object:DateTime 2020-04-26 20:39:57.916000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:39:57.916000000 Z
     title: Autorretrato2
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/5q1IaVyQzimJu5ipTVrzLL/40a97affda11107c856582e348b2cda8/Autorretrato2.jpg"
   - sys:
       id: 3I7Zs8tODHH9UhujPoBrPQ
       created_at: !ruby/object:DateTime 2020-04-26 20:40:38.497000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:40:38.497000000 Z
     title: Autorretrato3
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3I7Zs8tODHH9UhujPoBrPQ/3b780b11667b2d72dbc16859739d3e81/Autorretrato3.JPEG"
   - sys:
       id: 4VJGxGpdOdHZvwu9yoNbj2
       created_at: !ruby/object:DateTime 2020-04-26 20:41:37.306000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:41:37.306000000 Z
     title: '4'
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4VJGxGpdOdHZvwu9yoNbj2/d7401a335f86e4e96d68c1ffbd367ff4/4.jpg"
   - sys:
       id: 1YdLLlGUW3Qgb0TEgF9vVu
       created_at: !ruby/object:DateTime 2020-04-26 20:44:19.869000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:44:19.869000000 Z
     title: Autorretrato4.1
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1YdLLlGUW3Qgb0TEgF9vVu/e53fe043a3bb04471bf2d78fcd95d7b2/Autorretrato4.1.jpg"
   description: This series of self-portraits demonstrate my identity from other people's
     perspectives, and my personal identity derived from my thoughts and ideas. These
@@ -1006,14 +1006,14 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:23:07.557000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:23:07.557000000 Z
     title: DSC05279
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/2irEOmtzHIi58PH0c8XFdX/ef0792fe89f93f14fdcd82ebd1910702/DSC05279.jpg"
   - sys:
       id: QAEeEtl9ZGbFGhQPMY3MZ
       created_at: !ruby/object:DateTime 2020-04-26 20:23:30.507000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:23:30.507000000 Z
     title: IMG 8762
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/QAEeEtl9ZGbFGhQPMY3MZ/0a23bcfefe6bb9f903620c2c42bb753b/IMG_8762.JPG"
   description: These pictures were taken in the Ávila mountain in Caracas, Venezuela,
     during a photography course I took. These represent the flow and movement that
@@ -1034,14 +1034,14 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:19:35.013000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:19:35.013000000 Z
     title: 2019-11-22 13-03 1 page 16
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1KI7GGzPwIQe3Np9NogRDD/0df3968f7fde712ec1b926871a071e34/2019-11-22_13-03_1_page_16.JPEG"
   - sys:
       id: 4uH63E0MgsPLpuHZqbIdkw
       created_at: !ruby/object:DateTime 2020-04-26 20:20:07.075000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:20:07.075000000 Z
     title: 2019-11-22 13-03 1 page 13
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4uH63E0MgsPLpuHZqbIdkw/4dba89344b8f1a20d1857d1ceb95fa3d/2019-11-22_13-03_1_page_13.jpg"
   description: This is a study I did on perspective, to represent three dimensional
     objects such as cubes in a way that looks realistic. I studied the lighting in
@@ -1063,7 +1063,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 20:01:36.449000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 20:01:36.450000000 Z
     title: Afuera
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/2QOiM0N1tDZMo8uwZMytq3/c973a136aa1534cc17eaaeae8269cc5e/Afuera.jpg"
   description: In this work I wanted to represent the Venezuelan emigration to other
     parts of the world and how it affects the country. I used this technique to present
@@ -1087,7 +1087,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 19:49:29.866000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:49:29.866000000 Z
     title: c
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/3RzpVywUqlDLhZU3NxhxJF/72fc6886b1fed1d7f8a85d487aab45c4/C.jpeg"
   description: This work was done during a watercolor class I had. It relates nature
     with your own name and identity. I worked with different shades of green to experiment
@@ -1109,7 +1109,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 19:33:21.025000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:33:21.025000000 Z
     title: Zentangle5
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4B6Uie9FtTy40F116TSEzL/db4cfada799facfd48211dfa305890c4/Zentangle5.jpg"
   description: During summer 19’ I experimented with the 'Zentangle' method that relates
     meditation to art and doodling. I took some classes on the subject and drew different
@@ -1132,35 +1132,35 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 19:20:49.472000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:20:49.472000000 Z
     title: IMG 6839
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7nWi1U4Sguj6E6Ptfr0gfA/5cc4d3c81b3ab12f1e87a17ab055b976/IMG_6839.jpg"
   - sys:
       id: jEE1BZuLmT7n1AzTYeFK1
       created_at: !ruby/object:DateTime 2020-04-26 19:22:08.745000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:22:08.745000000 Z
     title: IMG 2037
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/jEE1BZuLmT7n1AzTYeFK1/6f959430340e83673ff952185f81da9e/IMG_2037.jpg"
   - sys:
       id: q8t4pWxdWqCihMPFuQZER
       created_at: !ruby/object:DateTime 2020-04-26 19:24:53.530000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:24:53.530000000 Z
     title: IMG 6830
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/q8t4pWxdWqCihMPFuQZER/3c47362fa130e98987270c5af76c87ad/IMG_6830.jpg"
   - sys:
       id: 4FclSZKtFLdINX5cpF66lL
       created_at: !ruby/object:DateTime 2020-04-26 19:26:19.370000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:26:19.370000000 Z
     title: IMG 6832
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/4FclSZKtFLdINX5cpF66lL/42f0cc7cc3b14c2e82788c36c7387885/IMG_6832.jpg"
   - sys:
       id: 7gombkQhoe0BNymK53Vde7
       created_at: !ruby/object:DateTime 2020-04-26 19:27:08.507000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 19:27:08.507000000 Z
     title: IMG 6836
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/7gombkQhoe0BNymK53Vde7/ba3ecfb76e1b5d4c224843accfb2ed1d/IMG_6836.jpg"
   description: This series demonstrates my process and evolution as an artist over
     a period of time. I was influenced by the way in which the artist Evan Kitson
@@ -1184,7 +1184,7 @@ workPosts:
       created_at: !ruby/object:DateTime 2020-04-26 18:27:46.751000000 Z
       updated_at: !ruby/object:DateTime 2020-04-26 18:27:46.751000000 Z
     title: Grafico
-    description: 
+    description:
     url: "//images.ctfassets.net/w0gzgn8pc4mk/1mKTAE80SZYcfLXiY58ZgS/a2102a91b272d95f6a7f01be18815d71/Grafico.jpg"
   description: 'With this graphic I wanted to represent the Aurora lights that occur
     in the night sky of polar zones in the planet. I used two colors, purple and green,

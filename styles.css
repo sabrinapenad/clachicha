@@ -377,11 +377,15 @@
 }
 
 .col-margin {
-  margin-bottom: 100px;
+  margin-bottom: 20px;
 }
 
 
 /* WORK POSTS */
+
+.work-table-column {
+  width: 350px;
+}
 
 .work-post-body {
   display: flex;
@@ -596,12 +600,12 @@
   background-color: #edeef0;
 }
 
-.pages-container {
+/* .pages-container {
   margin-top: 20px;
   margin-left: 80px;
   margin-right: 80px;
   float: left;
-}
+} */
 
 .pages-title-container {
   display: inline-block;
@@ -617,19 +621,12 @@
   margin-top: 40px;
 }
 
-.contact-container{
-  display: flex;
-}
-
-.contact-info {
-  display: flex;
-  margin-left: 200px;
-}
-
 .contact-items-container {
   justify-content: center;
   display: flex;
   flex-direction: column;
+  text-decoration: none;
+  color: black;
 }
 
 .contact-item {
@@ -637,4 +634,14 @@
   font-weight: lighter;
   font-size: 20px;
   margin-bottom: 10px;
+}
+
+.contact-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.contact-items-container:hover {
+  color: #cf3a3a;
 }
